@@ -1,0 +1,43 @@
+name: AI Daily Digest
+
+on:
+  schedule:
+    # Runs every day at 7:00 AM UTC (adjust to your timezone)
+    # Examples:
+    #   9:00 AM CET  → cron: '0 8 * * *'
+    #   9:00 AM EST  → cron: '0 14 * * *'
+    #   9:00 AM PST  → cron: '0 17 * * *'
+    - cron: '0 7 * * *'  # Every day at 7 AM UTC (including weekends)
+
+  # Allows you to run manually from the Actions tab for testing
+  workflow_dispatch:
+
+jobs:
+  post-digest:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run daily digest
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+        run: python daily_digest.py
+
+      - name: Save story history
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add history.json
+          git diff --staged --quiet || git commit -m "Update story history [$(date -u +%Y-%m-%d)]"
+          git push
