@@ -2,19 +2,15 @@ name: AI Daily Digest
 
 on:
   schedule:
-    # Runs every day at 7:00 AM UTC (adjust to your timezone)
-    # Examples:
-    #   9:00 AM CET  → cron: '0 8 * * *'
-    #   9:00 AM EST  → cron: '0 14 * * *'
-    #   9:00 AM PST  → cron: '0 17 * * *'
-    - cron: '0 7 * * *'  # Every day at 7 AM UTC (including weekends)
+    - cron: '0 7 * * *'
 
-  # Allows you to run manually from the Actions tab for testing
   workflow_dispatch:
 
 jobs:
   post-digest:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout repository
