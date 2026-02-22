@@ -122,5 +122,67 @@
       "title": "AI Memory Chip Shortage Reaches Crisis Point as Tesla, Apple Signal Production Constraints",
       "url": "https://www.bloomberg.com/news/articles/2026-02-15/rampant-ai-demand-for-memory-is-fueling-a-growing-chip-crisis"
     }
+  ],
+  "2026-02-22": [
+    {
+      "title": "University of New Hampshire AI Discovers 25 High-Temperature Magnetic Materials to Replace Rare Earth Magnets",
+      "url": "https://www.sciencedaily.com/releases/2026/02/260218031611.htm"
+    },
+    {
+      "title": "Stripe's \"Minions\" Generate Over 1,300 AI-Written Pull Requests Weekly with Full Infrastructure Integration",
+      "url": "https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents"
+    },
+    {
+      "title": "India's AI Impact Summit Targets $200 Billion Investment Amid Organizational Chaos",
+      "url": "https://www.cnbc.com/2026/02/21/ai-summit-india-tech.html"
+    },
+    {
+      "title": "Federal vs. State AI Regulation Showdown Intensifies as Colorado Delays Implementation",
+      "url": "https://etcjournal.com/2026/02/05/ai-in-february-2026-three-critical-global-decisions-cooperation-or-constitutional-clash/"
+    },
+    {
+      "title": "GitHub Launches Agentic Workflows That Convert Markdown to Automated GitHub Actions",
+      "url": "https://blog.github.com/"
+    },
+    {
+      "title": "GitHub Copilot Testing for .NET Goes Generally Available in Visual Studio 2026",
+      "url": "https://devblogs.microsoft.com/dotnet/github-copilot-testing-for-dotnet-available-in-visual-studio/"
+    },
+    {
+      "title": "Taalas Emerges from 9-Year Stealth with $169M for Custom AI Inference Chips",
+      "url": "https://techstartups.com/2026/02/19/top-startup-and-tech-funding-news-february-19-2025/"
+    },
+    {
+      "title": "ZaiNar Emerges from 9-Year Stealth with $100M for GPS-Free AI Location Technology",
+      "url": "https://techstartups.com/2026/02/19/top-startup-and-tech-funding-news-february-19-2025/"
+    },
+    {
+      "title": "OpenAI Introduces Lockdown Mode and Elevated Risk Labels for High-Security Users",
+      "url": "https://releasebot.io/updates/openai"
+    },
+    {
+      "title": "ByteDance's Seedance 2.0 Goes Viral with Hyper-Realistic AI Video Generation Capabilities",
+      "url": "https://designforonline.com/5-ai-tools-you-should-know-about-in-2026/"
+    },
+    {
+      "title": "Brendan Gregg Joins OpenAI to Tackle Extreme-Scale AI Datacenter Performance Challenges",
+      "url": "https://www.brendangregg.com/blog/2026-02-07/why-i-joined-openai.html"
+    },
+    {
+      "title": "Anthropic's Claude Tool Triggers $285 Billion Stock Market Selloff Across Multiple Sectors",
+      "url": "https://www.bloomberg.com/news/articles/2026-02-03/legal-software-stocks-plunge-as-anthropic-releases-new-ai-tool"
+    },
+    {
+      "title": "Nvidia Unveils \"Vera Rubin\" AI Platform with Trillion-Parameter Model Support at CES 2026",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates"
+    },
+    {
+      "title": "Airbnb's AI Agent Now Handles One-Third of Customer Support with Advanced Speech Recognition",
+      "url": "https://airbnb.tech/ai-ml/listening-learning-and-helping-at-scale-how-machine-learning-transforms-airbnbs-voice-support-experience/"
+    },
+    {
+      "title": "Netflix Reveals Comprehensive AI Infrastructure Supporting Hundreds of Machine Learning Systems at Scale",
+      "url": "https://netflixtechblog.com/supporting-diverse-ml-systems-at-netflix-2d2e6b6d205d"
+    }
   ]
 }
