@@ -184,5 +184,67 @@
       "title": "Netflix Reveals Comprehensive AI Infrastructure Supporting Hundreds of Machine Learning Systems at Scale",
       "url": "https://netflixtechblog.com/supporting-diverse-ml-systems-at-netflix-2d2e6b6d205d"
     }
+  ],
+  "2026-02-23": [
+    {
+      "title": "University of Michigan AI Reads Brain MRIs in Seconds with 97.5% Accuracy",
+      "url": "https://www.michiganmedicine.org/health-lab/ai-model-can-read-and-diagnose-brain-mri-seconds"
+    },
+    {
+      "title": "Samsung Galaxy S26 Adds \"Hey Plex\" Voice Activation for Perplexity AI",
+      "url": "https://news.samsung.com/global/galaxy-ai-expands-multi-agent-ecosystem-to-give-users-more-choice-and-flexibility"
+    },
+    {
+      "title": "Anthropic Releases Claude Sonnet 4.6 as Default Model with Major Performance Upgrades",
+      "url": "https://www.cnn.com/2026/02/05/tech/anthropic-opus-update-software-stocks"
+    },
+    {
+      "title": "xAI Launches Grok 4.20 with Four Collaborative AI Agents Architecture",
+      "url": "https://www.theaimarketers.ai/news021926/"
+    },
+    {
+      "title": "Google Launches Lyria 3 AI Music Generation in Gemini App",
+      "url": "https://www.marketingprofs.com/opinions/2026/54328/ai-update-february-20-2026-ai-news-and-views-from-the-past-week"
+    },
+    {
+      "title": "OpenAI's Brendan Gregg Joins to Tackle Extreme-Scale AI Datacenter Performance",
+      "url": "https://www.brendangregg.com/blog/2026-02-07/why-i-joined-openai.html"
+    },
+    {
+      "title": "OpenAI Introduces GPT-5.3-Codex for Enhanced AI-Powered Development",
+      "url": "https://openai.com/index/introducing-gpt-5-3-codex/"
+    },
+    {
+      "title": "Generative AI Analyzes Medical Data Faster Than Human Research Teams",
+      "url": "https://www.sciencedaily.com/releases/2026/02/260221060942.htm"
+    },
+    {
+      "title": "World Labs Raises $1 Billion for AI World Models Development",
+      "url": "https://www.bloomberg.com/news/articles/2026-02-18/ai-pioneer-fei-fei-li-s-startup-world-labs-raises-1-billion"
+    },
+    {
+      "title": "OpenAI Closes Record $100+ Billion Funding Round",
+      "url": "https://www.bloomberg.com/news/articles/2026-02-19/openai-funding-on-track-to-top-100-billion-with-latest-round"
+    },
+    {
+      "title": "17 US AI Companies Raise $100M+ Rounds in First Seven Weeks of 2026",
+      "url": "https://techcrunch.com/2026/02/17/here-are-the-17-us-based-ai-companies-that-have-raised-100m-or-more-in-2026/"
+    },
+    {
+      "title": "LinkedIn Algorithm Undergoes Major 2026 Overhaul with 360Brew AI",
+      "url": "https://posteverywhere.ai/blog/how-the-linkedin-algorithm-works"
+    },
+    {
+      "title": "Google DeepMind Launches Gemini 3 Deep Think for Complex Scientific Problems",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/"
+    },
+    {
+      "title": "Google DeepMind Partners with DOE on Genesis Mission AI Co-Scientist",
+      "url": "https://deepmind.google/blog/google-deepmind-supports-us-department-of-energy-on-genesis/"
+    },
+    {
+      "title": "Netflix Unveils Comprehensive AI Infrastructure Supporting Diverse Machine Learning Systems",
+      "url": "https://netflixtechblog.com/supporting-diverse-ml-systems-at-netflix-2d2e6b6d205d"
+    }
   ]
 }
