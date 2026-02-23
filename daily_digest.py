@@ -141,7 +141,14 @@ Be specific. Use real URLs from your search results. Do not invent or hallucinat
 
     payload = {
         "model": MODEL,
-        "max_tokens": 6144,
+        "max_tokens": 16000,
+        "system": (
+            "You are a news research assistant. Do NOT narrate your process. "
+            "Do NOT say things like 'I'll search for...' or 'Let me look for...'. "
+            "Just perform your searches silently, then output ONLY the final "
+            "structured story list in the exact ===STORY=== format requested. "
+            "No preamble, no commentary, no thinking out loud."
+        ),
         "tools": [{"type": "web_search_20250305", "name": "web_search"}],
         "messages": [{"role": "user", "content": prompt}],
     }
@@ -150,13 +157,22 @@ Be specific. Use real URLs from your search results. Do not invent or hallucinat
     response.raise_for_status()
     data = response.json()
 
-    # Extract all text blocks from the response
+    # Extract only text blocks that contain structured stories
+    # Claude may produce narration text blocks before the final output
     text_parts = []
     for block in data.get("content", []):
         if block.get("type") == "text":
             text_parts.append(block["text"])
 
-    return "\n".join(text_parts)
+    full_text = "\n".join(text_parts)
+
+    # If the structured format exists anywhere, extract only that portion
+    if "===STORY===" in full_text:
+        # Find the first ===STORY=== and take everything from there
+        idx = full_text.index("===STORY===")
+        return full_text[idx:]
+
+    return full_text
 
 
 def parse_stories(raw_text: str) -> list[dict]:
@@ -268,19 +284,26 @@ def main():
     print(f"   Found {len(stories)} stories")
 
     if not stories:
-        print("⚠️ No stories parsed. Posting raw digest as fallback.")
+        print("⚠️ No stories parsed. Posting error notice to Slack.")
         fallback_msg = {
             "blocks": [
                 {
                     "type": "section",
                     "text": {
                         "type": "mrkdwn",
-                        "text": f"*AI Daily Digest*\n\n{raw_digest[:3000]}",
+                        "text": (
+                            "*🤖 AI Daily Digest*\n\n"
+                            "⚠️ Today's digest couldn't be generated. "
+                            "This is usually a temporary issue — it will retry tomorrow.\n\n"
+                            "_Check the GitHub Actions log for details._"
+                        ),
                     },
                 }
             ]
         }
         post_to_slack(fallback_msg)
+        # Also print the raw output for debugging in the Actions log
+        print(f"Raw API output (first 2000 chars):\n{raw_digest[:2000]}")
         return
 
     # Save today's stories to history
