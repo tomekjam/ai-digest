@@ -1,66 +1,4 @@
 {
-  "2026-02-20": [
-    {
-      "title": "ByteDance's Seedance 2.0 Stuns Hollywood with Hyper-Realistic AI Video Generation",
-      "url": "https://www.cnn.com/2026/02/20/china/china-ai-seedance-intl-hnk-dst"
-    },
-    {
-      "title": "AI Breakthrough Discovers 25 New High-Temperature Magnetic Materials, Reduces Rare Earth Dependence",
-      "url": "https://www.sciencedaily.com/releases/2026/02/260218031611.htm"
-    },
-    {
-      "title": "Stripe's \"Minions\" Generate Over 1,300 Pull Requests Weekly Through Autonomous Coding Agents",
-      "url": "https://analyticsindiamag.com/ai-news/stripes-autonomous-coding-agents-generate-over-1300-prs-a-week"
-    },
-    {
-      "title": "Anthropic Secures $30 Billion Series G at $380 Billion Valuation, Largest AI Funding Round to Date",
-      "url": "https://techcrunch.com/2026/02/17/here-are-the-17-us-based-ai-companies-that-have-raised-100m-or-more-in-2026/"
-    },
-    {
-      "title": "Trump Executive Order Triggers Federal vs. State AI Regulation Showdown",
-      "url": "https://etcjournal.com/2026/02/05/ai-in-february-2026-three-critical-global-decisions-cooperation-or-constitutional-clash/"
-    },
-    {
-      "title": "Fei-Fei Li's World Labs Raises $1 Billion for World Models, Challenging Language Model Dominance",
-      "url": "https://www.bloomberg.com/news/articles/2026-02-18/ai-pioneer-fei-fei-li-s-startup-world-labs-raises-1-billion"
-    },
-    {
-      "title": "Alibaba Releases Qwen3.5 with Native Agent Capabilities as China's AI Competition Intensifies",
-      "url": "https://www.cnbc.com/2026/02/17/china-alibaba-qwen-ai-agent-latest-model.html"
-    },
-    {
-      "title": "Google DeepMind Partners with DOE on Genesis Mission, Unleashing AI Co-Scientist on National Labs",
-      "url": "https://www.bnl.gov/newsroom/news.php?a=222774"
-    },
-    {
-      "title": "Google Launches Gemini 3 Deep Think Mode for Complex Scientific Problem-Solving",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/"
-    },
-    {
-      "title": "Runway Raises $315M to Develop Next-Gen World Models, Targeting Medicine and Robotics",
-      "url": "https://techcrunch.com/2026/02/10/ai-video-startup-runway-raises-315m-at-5-3b-valuation-eyes-more-capable-world-models/"
-    },
-    {
-      "title": "Anthropic Launches Claude Opus 4.6 with Million-Token Context and Agent Teams Feature",
-      "url": "https://claudelog.com/claude-news/"
-    },
-    {
-      "title": "OpenAI Introduces Lockdown Mode and Elevated Risk Labels for High-Security Users",
-      "url": "https://releasebot.io/updates/openai"
-    },
-    {
-      "title": "Taalas Emerges from Stealth with $169M to Build Custom AI Inference Chips",
-      "url": "https://techstartups.com/2026/02/19/top-startup-and-tech-funding-news-february-19-2025/"
-    },
-    {
-      "title": "17 U.S. AI Companies Raise $100M+ Rounds in Early 2026, Signaling Continued Investment Boom",
-      "url": "https://techcrunch.com/2026/02/17/here-are-the-17-us-based-ai-companies-that-have-raised-100m-or-more-in-2026/"
-    },
-    {
-      "title": "Google Introduces Gemini 2.5 Computer Use Model for Direct UI Interaction",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-computer-use-model/"
-    }
-  ],
   "2026-02-21": [
     {
       "title": "OpenAI and Microsoft Join UK's AI Security Institute Coalition for Global AI Safety Standards",
@@ -245,6 +183,68 @@
     {
       "title": "Netflix Unveils Comprehensive AI Infrastructure Supporting Diverse Machine Learning Systems",
       "url": "https://netflixtechblog.com/supporting-diverse-ml-systems-at-netflix-2d2e6b6d205d"
+    }
+  ],
+  "2026-02-24": [
+    {
+      "title": "OpenAI Launches GPT-5.3-Codex, Its Most Capable Agentic Coding Model to Date",
+      "url": "https://openai.com/index/introducing-gpt-5-3-codex/"
+    },
+    {
+      "title": "Anthropic Launches Claude Opus 4.6 with \"Agent Teams\" and Million-Token Context Window",
+      "url": "https://www.anthropic.com/news/claude-opus-4-6"
+    },
+    {
+      "title": "Google Announces Gemini 3.1 Pro with 77.1% ARC-AGI-2 Score, Doubling Reasoning Performance",
+      "url": "https://9to5google.com/2026/02/19/google-announces-gemini-3-1-pro-for-complex-problem-solving/"
+    },
+    {
+      "title": "OpenAI Funding Round Set to Top $100 Billion at $850 Billion Valuation",
+      "url": "https://www.bloomberg.com/news/articles/2026-02-19/openai-funding-on-track-to-top-100-billion-with-latest-round"
+    },
+    {
+      "title": "17 US AI Companies Raise $100M+ Rounds in First Seven Weeks of 2026",
+      "url": "https://techcrunch.com/2026/02/17/here-are-the-17-us-based-ai-companies-that-have-raised-100m-or-more-in-2026/"
+    },
+    {
+      "title": "World Labs Raises $1 Billion for World Models Development",
+      "url": "https://www.bloomberg.com/news/articles/2026-02-18/ai-pioneer-fei-fei-li-s-startup-world-labs-raises-1-billion"
+    },
+    {
+      "title": "University of Hawai\u02bbi Team Develops Algorithm for Physics-Informed Machine Learning",
+      "url": "https://www.hawaii.edu/news/2026/02/19/new-algorithm-aip-advances/"
+    },
+    {
+      "title": "Impulse AI Launches Autonomous Machine Learning Platform, Places Top 2.5% on Kaggle",
+      "url": "https://www.engineering.com/impulse-ai-launches-no-code-autonomous-machine-learning-platform/"
+    },
+    {
+      "title": "Stripe's AI Agents Generate Over 1,300 Weekly Pull Requests with Human Oversight",
+      "url": "https://www.thehansindia.com/technology/tech-news/stripe-says-ai-now-writes-thousands-of-code-updates-weekly-but-humans-stay-in-charge-1050314"
+    },
+    {
+      "title": "NASA's Perseverance Rover Completes First AI-Planned Drive on Mars",
+      "url": "https://www.sciencedaily.com/news/computers_math/artificial_intelligence/"
+    },
+    {
+      "title": "University of Michigan AI Reads Brain MRIs in Seconds with 97.5% Accuracy",
+      "url": "https://www.sciencedaily.com/news/computers_math/artificial_intelligence/"
+    },
+    {
+      "title": "Stanford AI Spots Hidden Disease Warnings Using Single Night of Sleep Data",
+      "url": "https://www.sciencedaily.com/news/computers_math/artificial_intelligence/"
+    },
+    {
+      "title": "AI Memory Poisoning Attack Vector Discovered by Microsoft Security Researchers",
+      "url": "https://www.marketingprofs.com/opinions/2026/54328/ai-update-february-20-2026-ai-news-and-views-from-the-past-week"
+    },
+    {
+      "title": "Jump Raises $80M Series B for AI Platform Serving 27,000 Financial Advisors",
+      "url": "https://www.wealthmanagement.com/artificial-intelligence/jump_secures_series_b"
+    },
+    {
+      "title": "ZaiNar Emerges from 9-Year Stealth with $100M for GPS-Free AI Location Technology",
+      "url": "https://techstartups.com/2026/02/19/top-startup-and-tech-funding-news-february-19-2025/"
     }
   ]
 }
