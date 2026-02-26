@@ -1,128 +1,4 @@
 {
-  "2026-02-21": [
-    {
-      "title": "OpenAI and Microsoft Join UK's AI Security Institute Coalition for Global AI Safety Standards",
-      "url": "https://techstartups.com/2026/02/20/top-tech-news-today-february-20-2026/"
-    },
-    {
-      "title": "University of New Hampshire AI Breakthrough Discovers 25 New High-Temperature Magnetic Materials",
-      "url": "https://www.sciencedaily.com/releases/2026/02/260218031611.htm"
-    },
-    {
-      "title": "Deutsche Bank's AI Predicts Its Own Job Destruction Impact with Startling Precision",
-      "url": "https://fortune.com/2026/02/18/will-ai-destroy-jobs-deutsche-bank-asks-ai-to-predict/"
-    },
-    {
-      "title": "Google Strikes 150MW Geothermal Deal as AI Infrastructure Triggers Energy Arms Race",
-      "url": "https://techstartups.com/2026/02/20/top-tech-news-today-february-20-2026/"
-    },
-    {
-      "title": "New York Passes Nation-Leading AI Transparency Law for Frontier Models",
-      "url": "https://www.governor.ny.gov/news/governor-hochul-signs-nation-leading-legislation-require-ai-frameworks-ai-frontier-models"
-    },
-    {
-      "title": "LinkedIn Data Shows AI Has Added 1.3 Million New Jobs, Defying Displacement Fears",
-      "url": "https://www.weforum.org/stories/2026/01/ai-has-already-added-1-3-million-new-jobs-according-to-linkedin-data/"
-    },
-    {
-      "title": "17 US AI Companies Raise $100M+ Rounds in First Seven Weeks of 2026",
-      "url": "https://techcrunch.com/2026/02/17/here-are-the-17-us-based-ai-companies-that-have-raised-100m-or-more-in-2026/"
-    },
-    {
-      "title": "Taalas Emerges from Stealth with $169M to Build Custom AI Inference Chips",
-      "url": "https://techstartups.com/2026/02/19/top-startup-and-tech-funding-news-february-19-2025/"
-    },
-    {
-      "title": "ZaiNar Emerges from 9-Year Stealth with $100M for GPS-Free AI Location Technology",
-      "url": "https://techstartups.com/2026/02/19/top-startup-and-tech-funding-news-february-19-2025/"
-    },
-    {
-      "title": "Airbnb's AI Agent Now Handles One-Third of Customer Support, Plans Global Rollout",
-      "url": "https://techcrunch.com/2026/02/13/airbnb-plans-to-bake-in-ai-features-for-search-discovery-and-support/"
-    },
-    {
-      "title": "Netflix Unveils Comprehensive AI Infrastructure Supporting Diverse Machine Learning Systems",
-      "url": "https://netflixtechblog.com/supporting-diverse-ml-systems-at-netflix-2d2e6b6d205d"
-    },
-    {
-      "title": "GitHub Copilot Testing for .NET Goes Generally Available in Visual Studio 2026",
-      "url": "https://devblogs.microsoft.com/dotnet/github-copilot-testing-for-dotnet-available-in-visual-studio/"
-    },
-    {
-      "title": "LinkedIn Algorithm Undergoes Major 2026 Overhaul with 360Brew AI and Document Post Dominance",
-      "url": "https://www.dataslayer.ai/blog/linkedin-algorithm-february-2026-whats-working-now"
-    },
-    {
-      "title": "World Labs Raises $1 Billion for World Models, Leading AI's Largest Funding Week",
-      "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-cloud-energy-ai-world-labs/"
-    },
-    {
-      "title": "AI Memory Chip Shortage Reaches Crisis Point as Tesla, Apple Signal Production Constraints",
-      "url": "https://www.bloomberg.com/news/articles/2026-02-15/rampant-ai-demand-for-memory-is-fueling-a-growing-chip-crisis"
-    }
-  ],
-  "2026-02-22": [
-    {
-      "title": "University of New Hampshire AI Discovers 25 High-Temperature Magnetic Materials to Replace Rare Earth Magnets",
-      "url": "https://www.sciencedaily.com/releases/2026/02/260218031611.htm"
-    },
-    {
-      "title": "Stripe's \"Minions\" Generate Over 1,300 AI-Written Pull Requests Weekly with Full Infrastructure Integration",
-      "url": "https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents"
-    },
-    {
-      "title": "India's AI Impact Summit Targets $200 Billion Investment Amid Organizational Chaos",
-      "url": "https://www.cnbc.com/2026/02/21/ai-summit-india-tech.html"
-    },
-    {
-      "title": "Federal vs. State AI Regulation Showdown Intensifies as Colorado Delays Implementation",
-      "url": "https://etcjournal.com/2026/02/05/ai-in-february-2026-three-critical-global-decisions-cooperation-or-constitutional-clash/"
-    },
-    {
-      "title": "GitHub Launches Agentic Workflows That Convert Markdown to Automated GitHub Actions",
-      "url": "https://blog.github.com/"
-    },
-    {
-      "title": "GitHub Copilot Testing for .NET Goes Generally Available in Visual Studio 2026",
-      "url": "https://devblogs.microsoft.com/dotnet/github-copilot-testing-for-dotnet-available-in-visual-studio/"
-    },
-    {
-      "title": "Taalas Emerges from 9-Year Stealth with $169M for Custom AI Inference Chips",
-      "url": "https://techstartups.com/2026/02/19/top-startup-and-tech-funding-news-february-19-2025/"
-    },
-    {
-      "title": "ZaiNar Emerges from 9-Year Stealth with $100M for GPS-Free AI Location Technology",
-      "url": "https://techstartups.com/2026/02/19/top-startup-and-tech-funding-news-february-19-2025/"
-    },
-    {
-      "title": "OpenAI Introduces Lockdown Mode and Elevated Risk Labels for High-Security Users",
-      "url": "https://releasebot.io/updates/openai"
-    },
-    {
-      "title": "ByteDance's Seedance 2.0 Goes Viral with Hyper-Realistic AI Video Generation Capabilities",
-      "url": "https://designforonline.com/5-ai-tools-you-should-know-about-in-2026/"
-    },
-    {
-      "title": "Brendan Gregg Joins OpenAI to Tackle Extreme-Scale AI Datacenter Performance Challenges",
-      "url": "https://www.brendangregg.com/blog/2026-02-07/why-i-joined-openai.html"
-    },
-    {
-      "title": "Anthropic's Claude Tool Triggers $285 Billion Stock Market Selloff Across Multiple Sectors",
-      "url": "https://www.bloomberg.com/news/articles/2026-02-03/legal-software-stocks-plunge-as-anthropic-releases-new-ai-tool"
-    },
-    {
-      "title": "Nvidia Unveils \"Vera Rubin\" AI Platform with Trillion-Parameter Model Support at CES 2026",
-      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates"
-    },
-    {
-      "title": "Airbnb's AI Agent Now Handles One-Third of Customer Support with Advanced Speech Recognition",
-      "url": "https://airbnb.tech/ai-ml/listening-learning-and-helping-at-scale-how-machine-learning-transforms-airbnbs-voice-support-experience/"
-    },
-    {
-      "title": "Netflix Reveals Comprehensive AI Infrastructure Supporting Hundreds of Machine Learning Systems at Scale",
-      "url": "https://netflixtechblog.com/supporting-diverse-ml-systems-at-netflix-2d2e6b6d205d"
-    }
-  ],
   "2026-02-23": [
     {
       "title": "University of Michigan AI Reads Brain MRIs in Seconds with 97.5% Accuracy",
@@ -245,6 +121,68 @@
     {
       "title": "ZaiNar Emerges from 9-Year Stealth with $100M for GPS-Free AI Location Technology",
       "url": "https://techstartups.com/2026/02/19/top-startup-and-tech-funding-news-february-19-2025/"
+    }
+  ],
+  "2026-02-26": [
+    {
+      "title": "AI Chip Startup MatX Raises $500 Million to Challenge Nvidia in Training Market",
+      "url": "https://www.bloomberg.com/news/articles/2026-02-24/ai-chip-startup-matx-raises-500-million-to-compete-with-nvidia"
+    },
+    {
+      "title": "OpenAI Nears Record $100+ Billion Funding Round at $850 Billion Valuation",
+      "url": "https://www.bloomberg.com/news/articles/2026-02-19/openai-funding-on-track-to-top-100-billion-with-latest-round"
+    },
+    {
+      "title": "AI-for-Accounting Startup Basis Hits $1.15 Billion Valuation with $100M Round",
+      "url": "https://www.bloomberg.com/news/articles/2026-02-24/ai-for-accounting-startup-basis-hits-1-15-billion-valuation"
+    },
+    {
+      "title": "Microsoft Discovers AI Memory Poisoning Attack Vector Targeting Chatbot Systems",
+      "url": "https://www.marketingprofs.com/opinions/2026/54328/ai-update-february-20-2026-ai-news-and-views-from-the-past-week"
+    },
+    {
+      "title": "Trump's Executive Order Targets State AI Laws with Federal Preemption Strategy",
+      "url": "https://www.gunder.com/en/news-insights/insights/2026-ai-laws-update-key-regulations-and-practical-guidance"
+    },
+    {
+      "title": "University of New Hampshire AI Discovers 25 High-Temperature Magnetic Materials",
+      "url": "https://www.sciencedaily.com/releases/2026/02/260218031611.htm"
+    },
+    {
+      "title": "Nvidia Unveils Next-Generation \"Vera Rubin\" AI Platform for Trillion-Parameter Models",
+      "url": "https://www.cnbc.com/2026/02/25/first-look-at-nvidias-ai-system-vera-rubin-and-how-it-beats-blackwell"
+    },
+    {
+      "title": "IBM Plans to Triple Entry-Level Hiring as AI Reshapes Tech Roles",
+      "url": "https://www.marketingprofs.com/opinions/2026/54328/ai-update-february-20-2026-ai-news-and-views-from-the-past-week"
+    },
+    {
+      "title": "Claude Sonnet 4.6 Beats GPT-5.2 in 70% of Blind Writing Tests",
+      "url": "https://medium.com/ai-analytics-diaries/7-top-ai-tools-of-this-month-b334c4021663"
+    },
+    {
+      "title": "Stripe's AI \"Minions\" Generate Over 1,300 Pull Requests Weekly with Full Infrastructure",
+      "url": "https://www.thehansindia.com/technology/tech-news/stripe-says-ai-now-writes-thousands-of-code-updates-weekly-but-humans-stay-in-charge-1050314"
+    },
+    {
+      "title": "Google Introduces Shopping Ads Inside AI Mode Conversations",
+      "url": "https://www.marketingprofs.com/opinions/2026/54328/ai-update-february-20-2026-ai-news-and-views-from-the-past-week"
+    },
+    {
+      "title": "LinkedIn Overhauls SEO Strategy After AI Search Reduces B2B Traffic by 60%",
+      "url": "https://www.marketingprofs.com/opinions/2026/54328/ai-update-february-20-2026-ai-news-and-views-from-the-past-week"
+    },
+    {
+      "title": "Meta Strikes AI Licensing Deals with Major News Publishers",
+      "url": "https://www.fladgate.com/insights/ai-round-up-february-2026"
+    },
+    {
+      "title": "Google DeepMind Acquires Three AI Companies in Strategic Talent and Technology Spree",
+      "url": "https://www.fladgate.com/insights/ai-round-up-february-2026"
+    },
+    {
+      "title": "Klarna's AI Workforce Transformation: 50% Reduction, Mixed Results, Course Correction",
+      "url": "https://time.com/charter/7378651/what-klarna-learned-from-its-ambitious-ai-rollout/"
     }
   ]
 }
