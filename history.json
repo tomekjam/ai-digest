@@ -184,5 +184,67 @@
       "title": "Klarna's AI Workforce Transformation: 50% Reduction, Mixed Results, Course Correction",
       "url": "https://time.com/charter/7378651/what-klarna-learned-from-its-ambitious-ai-rollout/"
     }
+  ],
+  "2026-03-05": [
+    {
+      "title": "Stripe's AI \"Minions\" Generate Over 1,300 Pull Requests Weekly with Full Human Oversight",
+      "url": "https://stripe.com/blog/can-ai-agents-build-real-stripe-integrations"
+    },
+    {
+      "title": "Spotify's Top Developers Haven't Written Code Since December, Powered by \"Honk\" AI System",
+      "url": "https://techcrunch.com/2026/02/12/spotify-says-its-best-developers-havent-written-a-line-of-code-since-december-thanks-to-ai/"
+    },
+    {
+      "title": "NVIDIA GTC 2026 to Draw 30,000 for March 16-19 AI Summit with Potential New Inference Chip",
+      "url": "https://www.nvidia.com/gtc/"
+    },
+    {
+      "title": "OpenAI Raises Record $110 Billion Round at $730 Billion Valuation Led by Amazon, Nvidia, SoftBank",
+      "url": "https://techstartups.com/2026/03/02/top-startup-and-tech-funding-news-march-2-2025/"
+    },
+    {
+      "title": "AI Startups Raised $171 Billion in February 2026, 90% of Global Venture Funding",
+      "url": "https://news.crunchbase.com/venture/record-setting-global-funding-february-2026-openai-anthropic/"
+    },
+    {
+      "title": "Apple Announces Completely Reimagined AI-Powered Siri for 2026 Using Google's Gemini",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates"
+    },
+    {
+      "title": "Trump Executive Order Targets State AI Laws with Federal Preemption Strategy",
+      "url": "https://www.kslaw.com/news-and-insights/new-state-ai-laws-are-effective-on-january-1-2026-but-a-new-executive-order-signals-disruption"
+    },
+    {
+      "title": "University of New Hampshire AI Discovers 25 High-Temperature Magnetic Materials",
+      "url": "https://www.sciencedaily.com/releases/2026/02/260218031611.htm"
+    },
+    {
+      "title": "Samsung Plans to Double Gemini AI-Equipped Devices to 800 Million Units by End of 2026",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates"
+    },
+    {
+      "title": "MiniMax's M2.5 Model Emerges from China as Affordable Alternative Rivaling Claude Opus 4.6",
+      "url": "https://blog.mean.ceo/new-ai-model-releases-news-march-2026/"
+    },
+    {
+      "title": "Ayar Labs Secures $500M Series E Led by NVIDIA and AMD for AI Co-Packaged Optics",
+      "url": "https://techstartups.com/2026/03/03/top-startup-and-tech-funding-news-march-3-2025/"
+    },
+    {
+      "title": "NVIDIA and AMD Drive DRAM Prices Up 70% as AI Memory Demand Creates Structural Shortage",
+      "url": "https://www.digitimes.com/news/a20260303PD201/dram-hbm-expansion-nvidia-gtc-2026.html"
+    },
+    {
+      "title": "Spotify Engineers Use Separate Tech Stacks for Personalization and Experimentation Systems",
+      "url": "https://engineering.atspotify.com/2026/1/why-we-use-separate-tech-stacks-for-personalization-and-experimentation"
+    },
+    {
+      "title": "California Regulates AI Companion Chatbots with Safety Requirements for Minors",
+      "url": "https://abcnews.go.com/Politics/notable-new-state-laws-taking-effect-2026-cover/story?id=128811522"
+    },
+    {
+      "title": "Stripe Launches AI Cost Pass-Through Billing Feature with Markup Capabilities for Startups",
+      "url": "https://techcrunch.com/2026/03/02/stripe-wants-to-turn-your-ai-costs-into-a-profit-center/"
+    }
   ]
 }
