@@ -18,7 +18,7 @@ CLAUDE_API_URL = "https://api.anthropic.com/v1/messages"
 MODEL = "claude-sonnet-4-20250514"
 
 HISTORY_FILE = Path("history.json")
-HISTORY_DAYS = 3  # How many days of history to keep
+PROMPT_HISTORY_DAYS = 30  # How many days of titles to send to Claude
 
 
 def load_history() -> dict:
@@ -32,18 +32,18 @@ def load_history() -> dict:
 
 
 def save_history(history: dict):
-    """Save story history to file, pruning entries older than HISTORY_DAYS."""
-    cutoff = (datetime.now() - timedelta(days=HISTORY_DAYS)).strftime("%Y-%m-%d")
-    pruned = {date: stories for date, stories in history.items() if date >= cutoff}
-    HISTORY_FILE.write_text(json.dumps(pruned, indent=2))
+    """Save story history to file. Never prunes — keeps full history."""
+    HISTORY_FILE.write_text(json.dumps(history, indent=2))
 
 
 def get_recent_titles(history: dict) -> list[str]:
-    """Get all story titles from recent history for deduplication."""
+    """Get story titles from the last PROMPT_HISTORY_DAYS days for deduplication."""
+    cutoff = (datetime.now() - timedelta(days=PROMPT_HISTORY_DAYS)).strftime("%Y-%m-%d")
     titles = []
-    for stories in history.values():
-        for story in stories:
-            titles.append(story.get("title", ""))
+    for date, stories in history.items():
+        if date >= cutoff:
+            for story in stories:
+                titles.append(story.get("title", ""))
     return [t for t in titles if t]
 
 
@@ -136,12 +136,12 @@ Be specific. Use real URLs from your search results. Do not invent or hallucinat
     headers = {
         "x-api-key": ANTHROPIC_API_KEY,
         "content-type": "application/json",
-        "anthropic-version": "2023-06-01",
+        "anthropic-version": "2025-03-01",
     }
 
     payload = {
         "model": MODEL,
-        "max_tokens": 16000,
+        "max_tokens": 8096,
         "system": (
             "You are a news research assistant. Do NOT narrate your process. "
             "Do NOT say things like 'I'll search for...' or 'Let me look for...'. "
@@ -154,7 +154,9 @@ Be specific. Use real URLs from your search results. Do not invent or hallucinat
     }
 
     response = requests.post(CLAUDE_API_URL, headers=headers, json=payload)
-    response.raise_for_status()
+    if response.status_code != 200:
+        print(f"❌ API error {response.status_code}: {response.text}")
+        response.raise_for_status()
     data = response.json()
 
     # Extract only text blocks that contain structured stories
@@ -274,7 +276,7 @@ def main():
     print("📂 Loading story history...")
     history = load_history()
     recent_titles = get_recent_titles(history)
-    print(f"   Found {len(recent_titles)} stories from the last {HISTORY_DAYS} days")
+    print(f"   Found {len(recent_titles)} stories from the last {PROMPT_HISTORY_DAYS} days")
 
     print("🔍 Fetching today's AI news via Claude...")
     raw_digest = fetch_news_digest(recent_titles)
