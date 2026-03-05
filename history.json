@@ -187,64 +187,44 @@
   ],
   "2026-03-05": [
     {
-      "title": "Stripe's AI \"Minions\" Generate Over 1,300 Pull Requests Weekly with Full Human Oversight",
-      "url": "https://stripe.com/blog/can-ai-agents-build-real-stripe-integrations"
+      "title": "The L in \"LLM\" Stands for Lying",
+      "url": "https://acko.net/blog/the-l-in-llm-stands-for-lying/"
     },
     {
-      "title": "Spotify's Top Developers Haven't Written Code Since December, Powered by \"Honk\" AI System",
-      "url": "https://techcrunch.com/2026/02/12/spotify-says-its-best-developers-havent-written-a-line-of-code-since-december-thanks-to-ai/"
+      "title": "Nvidia PersonaPlex 7B on Apple Silicon: Full-Duplex Speech-to-Speech in Swift",
+      "url": "https://blog.ivan.digital/nvidia-personaplex-7b-on-apple-silicon-full-duplex-speech-to-speech-in-native-swift-with-mlx-0aa5276f2e23"
     },
     {
-      "title": "NVIDIA GTC 2026 to Draw 30,000 for March 16-19 AI Summit with Potential New Inference Chip",
-      "url": "https://www.nvidia.com/gtc/"
+      "title": "Bridging the operational AI gap",
+      "url": "https://www.technologyreview.com/2026/03/04/1133642/bridging-the-operational-ai-gap/"
     },
     {
-      "title": "OpenAI Raises Record $110 Billion Round at $730 Billion Valuation Led by Amazon, Nvidia, SoftBank",
-      "url": "https://techstartups.com/2026/03/02/top-startup-and-tech-funding-news-march-2-2025/"
+      "title": "Anti-patterns: things to avoid",
+      "url": "https://simonwillison.net/guides/agentic-engineering-patterns/anti-patterns/#atom-everything"
     },
     {
-      "title": "AI Startups Raised $171 Billion in February 2026, 90% of Global Venture Funding",
-      "url": "https://news.crunchbase.com/venture/record-setting-global-funding-february-2026-openai-anthropic/"
+      "title": "Gemini 3.1 Flash-Lite",
+      "url": "https://simonwillison.net/2026/Mar/3/gemini-31-flash-lite/#atom-everything"
     },
     {
-      "title": "Apple Announces Completely Reimagined AI-Powered Siri for 2026 Using Google's Gemini",
-      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates"
+      "title": "NotebookLM can now summarize research in \u2018cinematic\u2019 video overviews",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/889475/notebooklm-can-now-summarize-research-in-cinematic-video-overviews"
     },
     {
-      "title": "Trump Executive Order Targets State AI Laws with Federal Preemption Strategy",
-      "url": "https://www.kslaw.com/news-and-insights/new-state-ai-laws-are-effective-on-january-1-2026-but-a-new-executive-order-signals-disruption"
+      "title": "How we rebuilt the search architecture for high availability in GitHub Enterprise Server",
+      "url": "https://github.blog/engineering/architecture-optimization/how-we-rebuilt-the-search-architecture-for-high-availability-in-github-enterprise-server/"
     },
     {
-      "title": "University of New Hampshire AI Discovers 25 High-Temperature Magnetic Materials",
-      "url": "https://www.sciencedaily.com/releases/2026/02/260218031611.htm"
+      "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/"
     },
     {
-      "title": "Samsung Plans to Double Gemini AI-Equipped Devices to 800 Million Units by End of 2026",
-      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates"
+      "title": "Building a new Flash",
+      "url": "https://bill.newgrounds.com/news/post/1607118"
     },
     {
-      "title": "MiniMax's M2.5 Model Emerges from China as Affordable Alternative Rivaling Claude Opus 4.6",
-      "url": "https://blog.mean.ceo/new-ai-model-releases-news-march-2026/"
-    },
-    {
-      "title": "Ayar Labs Secures $500M Series E Led by NVIDIA and AMD for AI Co-Packaged Optics",
-      "url": "https://techstartups.com/2026/03/03/top-startup-and-tech-funding-news-march-3-2025/"
-    },
-    {
-      "title": "NVIDIA and AMD Drive DRAM Prices Up 70% as AI Memory Demand Creates Structural Shortage",
-      "url": "https://www.digitimes.com/news/a20260303PD201/dram-hbm-expansion-nvidia-gtc-2026.html"
-    },
-    {
-      "title": "Spotify Engineers Use Separate Tech Stacks for Personalization and Experimentation Systems",
-      "url": "https://engineering.atspotify.com/2026/1/why-we-use-separate-tech-stacks-for-personalization-and-experimentation"
-    },
-    {
-      "title": "California Regulates AI Companion Chatbots with Safety Requirements for Minors",
-      "url": "https://abcnews.go.com/Politics/notable-new-state-laws-taking-effect-2026-cover/story?id=128811522"
-    },
-    {
-      "title": "Stripe Launches AI Cost Pass-Through Billing Feature with Markup Capabilities for Startups",
-      "url": "https://techcrunch.com/2026/03/02/stripe-wants-to-turn-your-ai-costs-into-a-profit-center/"
+      "title": "AMD will bring its \u201cRyzen AI\u201d processors to standard desktop PCs for first time",
+      "url": "https://arstechnica.com/gadgets/2026/03/amd-ryzen-ai-400-cpus-will-bring-upgraded-graphics-to-socket-am5-desktops/"
     }
   ]
 }

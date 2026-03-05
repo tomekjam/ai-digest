@@ -5,8 +5,6 @@ layout: default
 
 # 🤖 AI Daily Digest Archive
 
-*AI-curated tech news from Hacker News, Reddit, RSS feeds, and engineering blogs. Updated daily.*
+*AI-curated tech news, updated daily.*
 
----
-
-*No digests yet — run the workflow to generate the first one!*
+- [Thursday, March 05, 2026](2026-03-05)
