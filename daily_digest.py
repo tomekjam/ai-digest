@@ -136,7 +136,7 @@ Be specific. Use real URLs from your search results. Do not invent or hallucinat
     headers = {
         "x-api-key": ANTHROPIC_API_KEY,
         "content-type": "application/json",
-        "anthropic-version": "2025-03-01",
+        "anthropic-version": "2023-06-01",
     }
 
     payload = {
