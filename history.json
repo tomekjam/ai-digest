@@ -268,5 +268,47 @@
       "title": "Clinejection \u2014 Compromising Cline's Production Releases just by Prompting an Issue Triager",
       "url": "https://simonwillison.net/2026/Mar/6/clinejection/#atom-everything"
     }
+  ],
+  "2026-03-07": [
+    {
+      "title": "C# strings silently kill your SQL Server indexes in Dapper",
+      "url": "https://consultwithgriff.com/dapper-nvarchar-implicit-conversion-performance-trap"
+    },
+    {
+      "title": "Hardening Firefox with Anthropic's Red Team",
+      "url": "https://www.anthropic.com/news/mozilla-firefox-security"
+    },
+    {
+      "title": "Anthropic\u2019s Claude found 22 vulnerabilities in Firefox over two weeks",
+      "url": "https://techcrunch.com/2026/03/06/anthropics-claude-found-22-vulnerabilities-in-firefox-over-two-weeks/"
+    },
+    {
+      "title": "How to scan for vulnerabilities with GitHub Security Lab\u2019s open source AI-powered framework",
+      "url": "https://github.blog/security/how-to-scan-for-vulnerabilities-with-github-security-labs-open-source-ai-powered-framework/"
+    },
+    {
+      "title": "60 million Copilot code reviews and counting",
+      "url": "https://github.blog/ai-and-ml/github-copilot/60-million-copilot-code-reviews-and-counting/"
+    },
+    {
+      "title": "Codex Security: now in research preview",
+      "url": "https://openai.com/index/codex-security-now-in-research-preview"
+    },
+    {
+      "title": "GPT-5.4 Thinking System Card",
+      "url": "https://openai.com/index/gpt-5-4-thinking-system-card"
+    },
+    {
+      "title": "UUID package coming to Go standard library",
+      "url": "https://github.com/golang/go/issues/62026"
+    },
+    {
+      "title": "Helix: A post-modern text editor",
+      "url": "https://helix-editor.com/"
+    },
+    {
+      "title": "Ada 2022",
+      "url": "https://www.adaic.org/ada-resources/standards/ada22/"
+    }
   ]
 }
