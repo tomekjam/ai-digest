@@ -394,5 +394,47 @@
       "title": "Show HN: I built a real-time OSINT dashboard pulling 15 live global feeds",
       "url": "https://github.com/BigBodyCobain/Shadowbroker"
     }
+  ],
+  "2026-03-10": [
+    {
+      "title": "Launch HN: Terminal Use (YC W26) \u2013 Vercel for filesystem-based agents",
+      "url": "https://news.ycombinator.com/item?id=47311657"
+    },
+    {
+      "title": "Yann LeCun\u2019s AMI Labs raises $1.03 billion to build world models",
+      "url": "https://techcrunch.com/2026/03/09/yann-lecuns-ami-labs-raises-1-03-billion-to-build-world-models/"
+    },
+    {
+      "title": "Anthropic launches code review tool to check flood of AI-generated code",
+      "url": "https://techcrunch.com/2026/03/09/anthropic-launches-code-review-tool-to-check-flood-of-ai-generated-code/"
+    },
+    {
+      "title": "OpenAI acquires Promptfoo to secure its AI agents",
+      "url": "https://techcrunch.com/2026/03/09/openai-acquires-promptfoo-to-secure-its-ai-agents/"
+    },
+    {
+      "title": "Production query plans without production data",
+      "url": "https://simonwillison.net/2026/Mar/9/production-query-plans-without-production-data/#atom-everything"
+    },
+    {
+      "title": "Under the hood: Security architecture of GitHub Agentic Workflows",
+      "url": "https://github.blog/ai-and-ml/generative-ai/under-the-hood-security-architecture-of-github-agentic-workflows/"
+    },
+    {
+      "title": "OpenAI to acquire Promptfoo",
+      "url": "https://openai.com/index/openai-to-acquire-promptfoo"
+    },
+    {
+      "title": "Sir Tony Hoare has died",
+      "url": "http://lefenetrou.blogspot.com/2026/03/in-memoriam-tony-hoare.html"
+    },
+    {
+      "title": "Building a Procedural Hex Map with Wave Function Collapse",
+      "url": "https://felixturner.github.io/hex-map-wfc/article/"
+    },
+    {
+      "title": "JSLinux Now Supports x86_64",
+      "url": "https://bellard.org/jslinux/"
+    }
   ]
 }
