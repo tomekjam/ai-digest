@@ -436,5 +436,47 @@
       "title": "JSLinux Now Supports x86_64",
       "url": "https://bellard.org/jslinux/"
     }
+  ],
+  "2026-03-11": [
+    {
+      "title": "The era of \u201cAI as text\u201d is over. Execution is the new interface.",
+      "url": "https://github.blog/ai-and-ml/github-copilot/the-era-of-ai-as-text-is-over-execution-is-the-new-interface/"
+    },
+    {
+      "title": "Under the hood: Security architecture of GitHub Agentic Workflows",
+      "url": "https://github.blog/ai-and-ml/generative-ai/under-the-hood-security-architecture-of-github-agentic-workflows/"
+    },
+    {
+      "title": "Show HN: How I topped the HuggingFace open LLM leaderboard on two gaming GPUs",
+      "url": "https://dnhkng.github.io/posts/rys/"
+    },
+    {
+      "title": "Yann LeCun raises $1B to build AI that understands the physical world",
+      "url": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/"
+    },
+    {
+      "title": "Agents that run while I sleep",
+      "url": "https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep"
+    },
+    {
+      "title": "Launch HN: RunAnywhere (YC W26) \u2013 Faster AI Inference on Apple Silicon",
+      "url": "https://github.com/RunanywhereAI/rcli"
+    },
+    {
+      "title": "Levels of Agentic Engineering",
+      "url": "https://www.bassimeledath.com/blog/levels-of-agentic-engineering"
+    },
+    {
+      "title": "After outages, Amazon to make senior engineers sign off on AI-assisted changes",
+      "url": "https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/"
+    },
+    {
+      "title": "AgentMail raises $6M to build an email service for AI agents",
+      "url": "https://techcrunch.com/2026/03/10/agentmail-raises-6m-to-build-an-email-service-for-ai-agents/"
+    },
+    {
+      "title": "AI should help us produce better code",
+      "url": "https://simonwillison.net/guides/agentic-engineering-patterns/better-code/#atom-everything"
+    }
   ]
 }
