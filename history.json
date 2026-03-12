@@ -478,5 +478,47 @@
       "title": "AI should help us produce better code",
       "url": "https://simonwillison.net/guides/agentic-engineering-patterns/better-code/#atom-everything"
     }
+  ],
+  "2026-03-12": [
+    {
+      "title": "Many SWE-bench-Passing PRs would not be merged",
+      "url": "https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/"
+    },
+    {
+      "title": "Temporal: The 9-year journey to fix time in JavaScript",
+      "url": "https://bloomberg.github.io/js-blog/post/temporal/"
+    },
+    {
+      "title": "Making WebAssembly a first-class language on the Web",
+      "url": "https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/"
+    },
+    {
+      "title": "BitNet: 100B Param 1-Bit model for local CPUs",
+      "url": "https://github.com/microsoft/BitNet"
+    },
+    {
+      "title": "Against vibes: When is a generative model useful",
+      "url": "https://www.williamjbowman.com/blog/2026/03/05/against-vibes-when-is-a-generative-model-useful/"
+    },
+    {
+      "title": "Replit snags $9B valuation 6 months after hitting $3B",
+      "url": "https://techcrunch.com/2026/03/11/replit-snags-9b-valuation-6-months-after-hitting-3b/"
+    },
+    {
+      "title": "The era of \u201cAI as text\u201d is over. Execution is the new interface.",
+      "url": "https://github.blog/ai-and-ml/github-copilot/the-era-of-ai-as-text-is-over-execution-is-the-new-interface/"
+    },
+    {
+      "title": "From model to agent: Equipping the Responses API with a computer environment",
+      "url": "https://openai.com/index/equip-responses-api-computer-environment"
+    },
+    {
+      "title": "Improving instruction hierarchy in frontier LLMs",
+      "url": "https://openai.com/index/instruction-hierarchy-challenge"
+    },
+    {
+      "title": "Show HN: A context-aware permission guard for Claude Code",
+      "url": "https://github.com/manuelschipper/nah/"
+    }
   ]
 }
