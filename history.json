@@ -520,5 +520,47 @@
       "title": "Show HN: A context-aware permission guard for Claude Code",
       "url": "https://github.com/manuelschipper/nah/"
     }
+  ],
+  "2026-03-13": [
+    {
+      "title": "Understanding the Go Runtime: The Scheduler",
+      "url": "https://internals-for-interns.com/posts/go-runtime-scheduler/"
+    },
+    {
+      "title": "Vite 8.0 Is Out",
+      "url": "https://vite.dev/blog/announcing-vite8"
+    },
+    {
+      "title": "Document poisoning in RAG systems: How attackers corrupt AI's sources",
+      "url": "https://aminrj.com/posts/rag-document-poisoning/"
+    },
+    {
+      "title": "Bringing Chrome to ARM64 Linux Devices",
+      "url": "https://blog.chromium.org/2026/03/bringing-chrome-to-arm64-linux-devices.html"
+    },
+    {
+      "title": "WolfIP: Lightweight TCP/IP stack with no dynamic memory allocations",
+      "url": "https://github.com/wolfssl/wolfip"
+    },
+    {
+      "title": "Launch HN: IonRouter (YC W26) \u2013 High-throughput, low-cost inference",
+      "url": "https://ionrouter.io"
+    },
+    {
+      "title": "Show HN: OneCLI \u2013 Vault for AI Agents in Rust",
+      "url": "https://github.com/onecli/onecli"
+    },
+    {
+      "title": "Show HN: Axe \u2013\u00a0A 12MB binary that replaces your AI framework",
+      "url": "https://github.com/jrswab/axe"
+    },
+    {
+      "title": "Gemini\u2019s task automation is here and it\u2019s wild",
+      "url": "https://www.theverge.com/tech/893820/gemini-task-automation-samsung-s26-google-pixel-10"
+    },
+    {
+      "title": "Anthropic&#8217;s Claude AI can respond with charts, diagrams, and other visuals now",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/893625/anthropic-claude-ai-charts-diagrams"
+    }
   ]
 }
