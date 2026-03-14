@@ -562,5 +562,47 @@
       "title": "Anthropic&#8217;s Claude AI can respond with charts, diagrams, and other visuals now",
       "url": "https://www.theverge.com/ai-artificial-intelligence/893625/anthropic-claude-ai-charts-diagrams"
     }
+  ],
+  "2026-03-14": [
+    {
+      "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
+      "url": "https://claude.com/blog/1m-context-ga"
+    },
+    {
+      "title": "I found 39 Algolia admin keys exposed across open source documentation sites",
+      "url": "https://benzimmermann.dev/blog/algolia-docsearch-admin-keys"
+    },
+    {
+      "title": "Coding after coders: The end of computer programming as we know it?",
+      "url": "https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html?smid=url-share"
+    },
+    {
+      "title": "Launch HN: Spine Swarm (YC S23) \u2013 AI agents that collaborate on a visual canvas",
+      "url": "https://www.getspine.ai/"
+    },
+    {
+      "title": "Show HN: Context Gateway \u2013 Compress agent context before it hits the LLM",
+      "url": "https://github.com/Compresr-ai/Context-Gateway"
+    },
+    {
+      "title": "Why physical AI is becoming manufacturing\u2019s next advantage",
+      "url": "https://www.technologyreview.com/2026/03/13/1134184/why-physical-ai-is-becoming-manufacturings-next-advantage/"
+    },
+    {
+      "title": "Future AI chips could be built on glass",
+      "url": "https://www.technologyreview.com/2026/03/13/1134230/future-ai-chips-could-be-built-on-glass/"
+    },
+    {
+      "title": "Pragmatic by design: Engineering AI for the real world",
+      "url": "https://www.technologyreview.com/2026/03/12/1133675/pragmatic-by-design-engineering-ai-for-the-real-world/"
+    },
+    {
+      "title": "Gemini\u2019s task automation is here and it\u2019s wild",
+      "url": "https://www.theverge.com/tech/893820/gemini-task-automation-samsung-s26-google-pixel-10"
+    },
+    {
+      "title": "Anthropic&#8217;s Claude AI can respond with charts, diagrams, and other visuals now",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/893625/anthropic-claude-ai-charts-diagrams"
+    }
   ]
 }
