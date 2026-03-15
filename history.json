@@ -604,5 +604,47 @@
       "title": "Anthropic&#8217;s Claude AI can respond with charts, diagrams, and other visuals now",
       "url": "https://www.theverge.com/ai-artificial-intelligence/893625/anthropic-claude-ai-charts-diagrams"
     }
+  ],
+  "2026-03-15": [
+    {
+      "title": "A most elegant TCP hole punching algorithm",
+      "url": "https://robertsdotpm.github.io/cryptography/tcp_hole_punching.html"
+    },
+    {
+      "title": "How kernel anti-cheats work",
+      "url": "https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/"
+    },
+    {
+      "title": "Tree Search Distillation for Language Models Using PPO",
+      "url": "https://ayushtambde.com/blog/tree-search-distillation-for-language-models-using-ppo/"
+    },
+    {
+      "title": "Postgres with Builtin File Systems",
+      "url": "https://db9.ai/"
+    },
+    {
+      "title": "Supply-chain attack using invisible code hits GitHub and other repositories",
+      "url": "https://arstechnica.com/security/2026/03/supply-chain-attack-using-invisible-code-hits-github-and-other-repositories/"
+    },
+    {
+      "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
+      "url": "https://simonwillison.net/2026/Mar/13/1m-context/#atom-everything"
+    },
+    {
+      "title": "Show HN: Han \u2013 A Korean programming language written in Rust",
+      "url": "https://github.com/xodn348/han"
+    },
+    {
+      "title": "SBCL Fibers \u2013 Lightweight Cooperative Threads",
+      "url": "https://atgreen.github.io/repl-yell/posts/sbcl-fibers/"
+    },
+    {
+      "title": "MCP is dead; long live MCP",
+      "url": "https://chrlschn.dev/blog/2026/03/mcp-is-dead-long-live-mcp/"
+    },
+    {
+      "title": "A Recursive Algorithm to Render Signed Distance Fields",
+      "url": "https://pointersgonewild.com/2026-03-06-a-recursive-algorithm-to-render-signed-distance-fields/"
+    }
   ]
 }
