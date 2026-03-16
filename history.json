@@ -646,5 +646,47 @@
       "title": "A Recursive Algorithm to Render Signed Distance Fields",
       "url": "https://pointersgonewild.com/2026-03-06-a-recursive-algorithm-to-render-signed-distance-fields/"
     }
+  ],
+  "2026-03-16": [
+    {
+      "title": "Electric motor scaling laws and inertia in robot actuators",
+      "url": "https://robot-daycare.com/posts/actuation_series_1/"
+    },
+    {
+      "title": "Chrome DevTools MCP (2025)",
+      "url": "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session"
+    },
+    {
+      "title": "LLM Architecture Gallery",
+      "url": "https://sebastianraschka.com/llm-architecture-gallery/"
+    },
+    {
+      "title": "//go:fix inline and the source-level inliner",
+      "url": "https://go.dev/blog/inliner"
+    },
+    {
+      "title": "Lies I was told about collaborative editing, Part 2: Why we don't use Yjs",
+      "url": "https://www.moment.dev/blog/lies-i-was-told-pt-2"
+    },
+    {
+      "title": "Glassworm is back: A new wave of invisible Unicode attacks hits repositories",
+      "url": "https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode"
+    },
+    {
+      "title": "Bus travel from Lima to Rio de Janeiro",
+      "url": "https://kenschutte.com/lima-to-rio-by-bus/"
+    },
+    {
+      "title": "What is agentic engineering?",
+      "url": "https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/#atom-everything"
+    },
+    {
+      "title": "The 49MB web page",
+      "url": "https://thatshubham.com/blog/news-audit"
+    },
+    {
+      "title": "How I write software with LLMs",
+      "url": "https://www.stavros.io/posts/how-i-write-software-with-llms/"
+    }
   ]
 }
