@@ -688,5 +688,47 @@
       "title": "How I write software with LLMs",
       "url": "https://www.stavros.io/posts/how-i-write-software-with-llms/"
     }
+  ],
+  "2026-03-17": [
+    {
+      "title": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
+      "url": "https://mistral.ai/news/leanstral"
+    },
+    {
+      "title": "Pyodide: a Python distribution based on WebAssembly",
+      "url": "https://github.com/pyodide/pyodide"
+    },
+    {
+      "title": "Show HN: Oxyde \u2013 Pydantic-native async ORM with a Rust core",
+      "url": "https://github.com/mr-fatalyst/oxyde"
+    },
+    {
+      "title": "Speed at the cost of quality: Study of use of Cursor AI in open source projects (2025)",
+      "url": "https://arxiv.org/abs/2511.04427"
+    },
+    {
+      "title": "Lies I was told about collaborative editing, Part 2: Why we don't use Yjs",
+      "url": "https://www.moment.dev/blog/lies-i-was-told-pt-2"
+    },
+    {
+      "title": "Language model teams as distributed systems",
+      "url": "https://arxiv.org/abs/2603.12229"
+    },
+    {
+      "title": "DLSS 5 looks like a real-time generative AI filter for video games",
+      "url": "https://www.theverge.com/news/895472/nvidia-dlss5-generative-ai-pc-graphics"
+    },
+    {
+      "title": "Introducing Mistral Small 4",
+      "url": "https://simonwillison.net/2026/Mar/16/mistral-small-4/#atom-everything"
+    },
+    {
+      "title": "Coding agents for data analysis",
+      "url": "https://simonwillison.net/2026/Mar/16/coding-agents-for-data-analysis/#atom-everything"
+    },
+    {
+      "title": "How coding agents work",
+      "url": "https://simonwillison.net/guides/agentic-engineering-patterns/how-coding-agents-work/#atom-everything"
+    }
   ]
 }
