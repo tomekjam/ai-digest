@@ -730,5 +730,47 @@
       "title": "How coding agents work",
       "url": "https://simonwillison.net/guides/agentic-engineering-patterns/how-coding-agents-work/#atom-everything"
     }
+  ],
+  "2026-03-18": [
+    {
+      "title": "Mistral AI Releases Forge",
+      "url": "https://mistral.ai/news/forge"
+    },
+    {
+      "title": "Python 3.15's JIT is now back on track",
+      "url": "https://fidget-spinner.github.io/posts/jit-on-track.html"
+    },
+    {
+      "title": "Show HN: Sub-millisecond VM sandboxes using CoW memory forking",
+      "url": "https://github.com/adammiribyan/zeroboot"
+    },
+    {
+      "title": "GPT-5.4 mini and GPT-5.4 nano, which can describe 76,000 photos for $52",
+      "url": "https://simonwillison.net/2026/Mar/17/mini-and-nano/#atom-everything"
+    },
+    {
+      "title": "Introducing Mistral Small 4",
+      "url": "https://simonwillison.net/2026/Mar/16/mistral-small-4/#atom-everything"
+    },
+    {
+      "title": "Coding agents for data analysis",
+      "url": "https://simonwillison.net/2026/Mar/16/coding-agents-for-data-analysis/#atom-everything"
+    },
+    {
+      "title": "Introducing GPT-5.4 mini and nano",
+      "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano"
+    },
+    {
+      "title": "More than 135 open hardware devices flashable with your own firmware",
+      "url": "https://openhardware.directory"
+    },
+    {
+      "title": "A tale about fixing eBPF spinlock issues in the Linux kernel",
+      "url": "https://rovarma.com/articles/a-tale-about-fixing-ebpf-spinlock-issues-in-the-linux-kernel/"
+    },
+    {
+      "title": "Unsloth Studio",
+      "url": "https://unsloth.ai/docs/new/studio"
+    }
   ]
 }
