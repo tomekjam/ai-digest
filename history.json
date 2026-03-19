@@ -772,5 +772,47 @@
       "title": "Unsloth Studio",
       "url": "https://unsloth.ai/docs/new/studio"
     }
+  ],
+  "2026-03-19": [
+    {
+      "title": "Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe",
+      "url": "https://gitlab.com/IsolatedOctopi/nvidia_greenboost"
+    },
+    {
+      "title": "Nvidia NemoClaw",
+      "url": "https://github.com/NVIDIA/NemoClaw"
+    },
+    {
+      "title": "Book: The Emerging Science of Machine Learning Benchmarks",
+      "url": "https://mlbenchmarks.org/00-preface.html"
+    },
+    {
+      "title": "Introducing the Machine Payments Protocol",
+      "url": "https://stripe.com/blog/machine-payments-protocol"
+    },
+    {
+      "title": "Autoresearching Apple's \"LLM in a Flash\" to run Qwen 397B locally",
+      "url": "https://simonwillison.net/2026/Mar/18/llm-in-a-flash/#atom-everything"
+    },
+    {
+      "title": "Snowflake Cortex AI Escapes Sandbox and Executes Malware",
+      "url": "https://simonwillison.net/2026/Mar/18/snowflake-cortex-ai/#atom-everything"
+    },
+    {
+      "title": "GPT-5.4 mini and GPT-5.4 nano, which can describe 76,000 photos for $52",
+      "url": "https://simonwillison.net/2026/Mar/17/mini-and-nano/#atom-everything"
+    },
+    {
+      "title": "Snowflake AI Escapes Sandbox and Executes Malware",
+      "url": "https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware"
+    },
+    {
+      "title": "Introducing GPT-5.4 mini and nano",
+      "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano"
+    },
+    {
+      "title": "Our latest investment in open source security for the AI era",
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/ai-powered-open-source-security/"
+    }
   ]
 }
