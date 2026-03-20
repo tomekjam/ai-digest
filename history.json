@@ -814,5 +814,47 @@
       "title": "Our latest investment in open source security for the AI era",
       "url": "https://blog.google/innovation-and-ai/technology/safety-security/ai-powered-open-source-security/"
     }
+  ],
+  "2026-03-20": [
+    {
+      "title": "ArXiv Declares Independence from Cornell",
+      "url": "https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell"
+    },
+    {
+      "title": "Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found",
+      "url": "https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found"
+    },
+    {
+      "title": "Astral to Join OpenAI",
+      "url": "https://astral.sh/blog/openai"
+    },
+    {
+      "title": "How many branches can your CPU predict?",
+      "url": "https://lemire.me/blog/2026/03/18/how-many-branches-can-your-cpu-predict/"
+    },
+    {
+      "title": "NanoGPT Slowrun: 10x Data Efficiency with Infinite Compute",
+      "url": "https://qlabs.sh/10x"
+    },
+    {
+      "title": "Scaling Karpathy's Autoresearch: What Happens When the Agent Gets a GPU Cluster",
+      "url": "https://blog.skypilot.co/scaling-autoresearch/"
+    },
+    {
+      "title": "A rogue AI led to a serious security incident at Meta",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident"
+    },
+    {
+      "title": "Can quantum computers now solve health care problems? We\u2019ll soon find out.",
+      "url": "https://www.technologyreview.com/2026/03/19/1134409/a-5-million-prize-awaits-proof-that-quantum-computers-can-solve-health-care-problems/"
+    },
+    {
+      "title": "Anthropic takes legal action against OpenCode",
+      "url": "https://github.com/anomalyco/opencode/pull/18186"
+    },
+    {
+      "title": "Online bot traffic will exceed human traffic by 2027, Cloudflare CEO says",
+      "url": "https://techcrunch.com/2026/03/19/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says/"
+    }
   ]
 }
