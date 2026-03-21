@@ -856,5 +856,47 @@
       "title": "Online bot traffic will exceed human traffic by 2027, Cloudflare CEO says",
       "url": "https://techcrunch.com/2026/03/19/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says/"
     }
+  ],
+  "2026-03-21": [
+    {
+      "title": "How we monitor internal coding agents for misalignment",
+      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment"
+    },
+    {
+      "title": "OpenCode \u2013 Open source AI coding agent",
+      "url": "https://opencode.ai/"
+    },
+    {
+      "title": "Mamba-3",
+      "url": "https://www.together.ai/blog/mamba-3"
+    },
+    {
+      "title": "Attention Residuals",
+      "url": "https://github.com/MoonshotAI/Attention-Residuals"
+    },
+    {
+      "title": "OpenAI is throwing everything into building a fully automated researcher",
+      "url": "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/"
+    },
+    {
+      "title": "Widely used Trivy scanner compromised in ongoing supply-chain attack",
+      "url": "https://arstechnica.com/security/2026/03/widely-used-trivy-scanner-compromised-in-ongoing-supply-chain-attack/"
+    },
+    {
+      "title": "We rewrote our Rust WASM parser in TypeScript and it got faster",
+      "url": "https://www.openui.com/blog/rust-wasm-parser"
+    },
+    {
+      "title": "Linux Applications Programming by Example: The Fundamental APIs (2nd Edition)",
+      "url": "https://github.com/arnoldrobbins/LinuxByExample-2e"
+    },
+    {
+      "title": "What happened at Nvidia GTC:\u00a0NemoClaw, Robot Olaf, and a\u00a0$1 trillion\u00a0bet",
+      "url": "https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/"
+    },
+    {
+      "title": "The Download: OpenAI is building a fully automated researcher, and a psychedelic trial blind spot",
+      "url": "https://www.technologyreview.com/2026/03/20/1134448/the-download-openai-building-fully-automated-researcher-psychedelic-drug-trial/"
+    }
   ]
 }
