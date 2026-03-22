@@ -898,5 +898,47 @@
       "title": "The Download: OpenAI is building a fully automated researcher, and a psychedelic trial blind spot",
       "url": "https://www.technologyreview.com/2026/03/20/1134448/the-download-openai-building-fully-automated-researcher-psychedelic-drug-trial/"
     }
+  ],
+  "2026-03-22": [
+    {
+      "title": "Tinybox \u2013 A powerful computer for deep learning",
+      "url": "https://tinygrad.org/#tinybox"
+    },
+    {
+      "title": "Professional video editing, right in the browser with WebGPU and WASM",
+      "url": "https://tooscut.app/"
+    },
+    {
+      "title": "Grafeo \u2013 A fast, lean, embeddable graph database built in Rust",
+      "url": "https://grafeo.dev/"
+    },
+    {
+      "title": "Trivy ecosystem supply chain briefly compromised",
+      "url": "https://github.com/aquasecurity/trivy/security/advisories/GHSA-69fq-xp46-6x23"
+    },
+    {
+      "title": "OpenAI is throwing everything into building a fully automated researcher",
+      "url": "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/"
+    },
+    {
+      "title": "Widely used Trivy scanner compromised in ongoing supply-chain attack",
+      "url": "https://arstechnica.com/security/2026/03/widely-used-trivy-scanner-compromised-in-ongoing-supply-chain-attack/"
+    },
+    {
+      "title": "Using Git with coding agents",
+      "url": "https://simonwillison.net/guides/agentic-engineering-patterns/using-git-with-coding-agents/#atom-everything"
+    },
+    {
+      "title": "The three pillars of JavaScript bloat",
+      "url": "https://43081j.com/2026/03/three-pillars-of-javascript-bloat"
+    },
+    {
+      "title": "Floci \u2013 A free, open-source local AWS emulator",
+      "url": "https://github.com/hectorvent/floci"
+    },
+    {
+      "title": "Bayesian statistics for confused data scientists",
+      "url": "https://nchagnet.pages.dev/blog/bayesian-statistics-for-confused-data-scientists/"
+    }
   ]
 }
