@@ -940,5 +940,47 @@
       "title": "Bayesian statistics for confused data scientists",
       "url": "https://nchagnet.pages.dev/blog/bayesian-statistics-for-confused-data-scientists/"
     }
+  ],
+  "2026-03-23": [
+    {
+      "title": "Flash-MoE: Running a 397B Parameter Model on a Laptop",
+      "url": "https://github.com/danveloper/flash-moe"
+    },
+    {
+      "title": "The gold standard of optimization: A look under the hood of RollerCoaster Tycoon",
+      "url": "https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/"
+    },
+    {
+      "title": "Building an FPGA 3dfx Voodoo with Modern RTL Tools",
+      "url": "https://noquiche.fyi/voodoo"
+    },
+    {
+      "title": "Migrating the American Express Payment Network, Twice",
+      "url": "https://americanexpress.io/migrating-the-payments-network-twice/"
+    },
+    {
+      "title": "The IBM scientist who rewrote the rules of information just won a Turing Award",
+      "url": "https://www.ibm.com/think/news/ibm-scientist-charles-bennett-turing-award"
+    },
+    {
+      "title": "An exclusive tour of Amazon\u2019s Trainium lab, the chip that\u2019s won over Anthropic, OpenAI, even Apple",
+      "url": "https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/"
+    },
+    {
+      "title": "Starlette 1.0 skill",
+      "url": "https://simonwillison.net/2026/Mar/23/starlette-1-skill/#atom-everything"
+    },
+    {
+      "title": "Experimenting with Starlette 1.0 with Claude skills",
+      "url": "https://simonwillison.net/2026/Mar/22/starlette/#atom-everything"
+    },
+    {
+      "title": "Using Git with coding agents",
+      "url": "https://simonwillison.net/guides/agentic-engineering-patterns/using-git-with-coding-agents/#atom-everything"
+    },
+    {
+      "title": "The future of version control",
+      "url": "https://bramcohen.com/p/manyana"
+    }
   ]
 }
