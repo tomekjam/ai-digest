@@ -1066,5 +1066,47 @@
       "title": "Arm\u2019s first CPU ever will plug into Meta\u2019s AI data centers later this year",
       "url": "https://www.theverge.com/ai-artificial-intelligence/899823/arm-agi-cpu-meta"
     }
+  ],
+  "2026-03-26": [
+    {
+      "title": "ARC-AGI-3",
+      "url": "https://arcprize.org/arc-agi/3"
+    },
+    {
+      "title": "Two studies in compiler optimisations",
+      "url": "https://www.hmpcabral.com/2026/03/20/two-studies-in-compiler-optimisations/"
+    },
+    {
+      "title": "Quantization from the Ground Up",
+      "url": "https://ngrok.com/blog/quantization"
+    },
+    {
+      "title": "\"Disregard That\" Attacks",
+      "url": "https://calpaterson.com/disregard.html"
+    },
+    {
+      "title": "Google unveils TurboQuant, a new AI memory compression algorithm \u2014\u00a0and yes, the internet is calling it \u2018Pied Piper\u2019",
+      "url": "https://techcrunch.com/2026/03/25/google-turboquant-ai-memory-compression-silicon-valley-pied-piper/"
+    },
+    {
+      "title": "Google bumps up Q Day deadline to 2029, far sooner than previously thought",
+      "url": "https://arstechnica.com/security/2026/03/google-bumps-up-q-day-estimate-to-2029-far-sooner-than-previously-thought/"
+    },
+    {
+      "title": "datasette-files-s3 0.1a1",
+      "url": "https://simonwillison.net/2026/Mar/25/datasette-files-s3/#atom-everything"
+    },
+    {
+      "title": "datasette-llm 0.1a1",
+      "url": "https://simonwillison.net/2026/Mar/25/datasette-llm/#atom-everything"
+    },
+    {
+      "title": "Auto mode for Claude Code",
+      "url": "https://simonwillison.net/2026/Mar/24/auto-mode-for-claude-code/#atom-everything"
+    },
+    {
+      "title": "Updates to GitHub Copilot interaction data usage policy",
+      "url": "https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/"
+    }
   ]
 }
