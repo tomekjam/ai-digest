@@ -1108,5 +1108,47 @@
       "title": "Updates to GitHub Copilot interaction data usage policy",
       "url": "https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/"
     }
+  ],
+  "2026-03-27": [
+    {
+      "title": "Quantization from the ground up",
+      "url": "https://simonwillison.net/2026/Mar/26/quantization-from-the-ground-up/#atom-everything"
+    },
+    {
+      "title": "Agent-to-agent pair programming",
+      "url": "https://axeldelafosse.com/blog/agent-to-agent-pair-programming"
+    },
+    {
+      "title": "$500 GPU outperforms Claude Sonnet on coding benchmarks",
+      "url": "https://github.com/itigges22/ATLAS"
+    },
+    {
+      "title": "From 0% to 36% on Day 1 of ARC-AGI-3",
+      "url": "https://www.symbolica.ai/blog/arc-agi-3"
+    },
+    {
+      "title": "HyperAgents: Self-referential self-improving agents",
+      "url": "https://github.com/facebookresearch/hyperagents"
+    },
+    {
+      "title": "We rewrote JSONata with AI in a day, saved $500k/year",
+      "url": "https://www.reco.ai/blog/we-rewrote-jsonata-with-ai"
+    },
+    {
+      "title": "Show HN: Turbolite \u2013 a SQLite VFS serving sub-250ms cold JOIN queries from S3",
+      "url": "https://github.com/russellromney/turbolite"
+    },
+    {
+      "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/"
+    },
+    {
+      "title": "Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer",
+      "url": "https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/"
+    },
+    {
+      "title": "My minute-by-minute response to the LiteLLM malware attack",
+      "url": "https://futuresearch.ai/blog/litellm-attack-transcript/"
+    }
   ]
 }
