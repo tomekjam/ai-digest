@@ -1150,5 +1150,47 @@
       "title": "My minute-by-minute response to the LiteLLM malware attack",
       "url": "https://futuresearch.ai/blog/litellm-attack-transcript/"
     }
+  ],
+  "2026-03-28": [
+    {
+      "title": "Telnyx package compromised on PyPI",
+      "url": "https://telnyx.com/resources/telnyx-python-sdk-supply-chain-security-notice-march-2026"
+    },
+    {
+      "title": "We Rewrote JSONata with AI in a Day, Saved $500K/Year",
+      "url": "https://simonwillison.net/2026/Mar/27/vine-porting-jsonata/#atom-everything"
+    },
+    {
+      "title": "My minute-by-minute response to the LiteLLM malware attack",
+      "url": "https://simonwillison.net/2026/Mar/26/response-to-the-litellm-malware-attack/#atom-everything"
+    },
+    {
+      "title": "If you don't opt out by Apr 24 GitHub will train on your private repos",
+      "url": "https://news.ycombinator.com/item?id=47548243"
+    },
+    {
+      "title": "Anatomy of the .claude/ folder",
+      "url": "https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder"
+    },
+    {
+      "title": "Velxio 2.0 \u2013 Emulate Arduino, ESP32, and Raspberry Pi 3 in the Browser",
+      "url": "https://github.com/davidmonterocrespo24/velxio"
+    },
+    {
+      "title": "Improving Composer through real-time RL",
+      "url": "https://cursor.com/blog/real-time-rl-for-composer"
+    },
+    {
+      "title": "Iran-linked hackers breach FBI director's personal email",
+      "url": "https://www.reuters.com/world/us/iran-linked-hackers-claim-breach-of-fbi-directors-personal-email-doj-official-2026-03-27/"
+    },
+    {
+      "title": "Anthropic wins injunction against Trump administration over Defense Department saga",
+      "url": "https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/"
+    },
+    {
+      "title": "Data centers get ready \u2014 the Senate wants to see your power bills",
+      "url": "https://techcrunch.com/2026/03/26/data-centers-get-ready-the-senate-wants-to-see-your-power-bills/"
+    }
   ]
 }
