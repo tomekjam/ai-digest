@@ -1276,5 +1276,47 @@
       "title": "The RISE RISC-V Runners: free, native RISC-V CI on GitHub",
       "url": "https://riseproject.dev/2026/03/24/announcing-the-rise-risc-v-runners-free-native-risc-v-ci-on-github/"
     }
+  ],
+  "2026-03-31": [
+    {
+      "title": "Axios compromised on NPM \u2013 Malicious versions drop remote access trojan",
+      "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan"
+    },
+    {
+      "title": "Ollama is now powered by MLX on Apple Silicon in preview",
+      "url": "https://ollama.com/blog/mlx"
+    },
+    {
+      "title": "Google's 200M-parameter time-series foundation model with 16k context",
+      "url": "https://github.com/google-research/timesfm"
+    },
+    {
+      "title": "AI chip startup Rebellions raises $400 million at $2.3B valuation in pre-IPO round",
+      "url": "https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/"
+    },
+    {
+      "title": "Mistral AI raises $830M in debt to set up a data center near Paris",
+      "url": "https://techcrunch.com/2026/03/30/mistral-ai-raises-830m-in-debt-to-set-up-a-data-center-near-paris/"
+    },
+    {
+      "title": "Qodo raises $70M for code verification as AI coding scales",
+      "url": "https://techcrunch.com/2026/03/30/qodo-bets-on-code-verification-as-ai-coding-scales-raises-70m/"
+    },
+    {
+      "title": "datasette-files 0.1a3",
+      "url": "https://simonwillison.net/2026/Mar/30/datasette-files/#atom-everything"
+    },
+    {
+      "title": "datasette-llm 0.1a3",
+      "url": "https://simonwillison.net/2026/Mar/30/datasette-llm/#atom-everything"
+    },
+    {
+      "title": "Python Vulnerability Lookup",
+      "url": "https://simonwillison.net/2026/Mar/29/python-vulnerability-lookup/#atom-everything"
+    },
+    {
+      "title": "1.5M GitHub pull requests have had ads injected into them by Microsoft Copilot",
+      "url": "https://www.neowin.net/news/microsoft-copilot-is-now-injecting-ads-into-pull-requests-on-github-gitlab/"
+    }
   ]
 }
