@@ -1318,5 +1318,47 @@
       "title": "1.5M GitHub pull requests have had ads injected into them by Microsoft Copilot",
       "url": "https://www.neowin.net/news/microsoft-copilot-is-now-injecting-ads-into-pull-requests-on-github-gitlab/"
     }
+  ],
+  "2026-04-01": [
+    {
+      "title": "TinyLoRA \u2013 Learning to Reason in 13 Parameters",
+      "url": "https://arxiv.org/abs/2602.04118"
+    },
+    {
+      "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
+      "url": "https://prismml.com/"
+    },
+    {
+      "title": "From 300KB to 69KB per Token: How LLM Architectures Solve the KV Cache Problem",
+      "url": "https://news.future-shock.ai/the-weight-of-remembering/"
+    },
+    {
+      "title": "Claude Code Unpacked : A visual guide",
+      "url": "https://ccunpacked.dev/"
+    },
+    {
+      "title": "Axios compromised on NPM \u2013 Malicious versions drop remote access trojan",
+      "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan"
+    },
+    {
+      "title": "Show HN: Postgres extension for BM25 relevance-ranked full-text search",
+      "url": "https://github.com/timescale/pg_textsearch"
+    },
+    {
+      "title": "Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project",
+      "url": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/"
+    },
+    {
+      "title": "Claude Code leak exposes a Tamagotchi-style \u2018pet\u2019 and an always-on agent",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/904776/anthropic-claude-source-code-leak"
+    },
+    {
+      "title": "datasette-extract 0.3a0",
+      "url": "https://simonwillison.net/2026/Apr/1/datasette-extract/#atom-everything"
+    },
+    {
+      "title": "datasette-enrichments-llm 0.2a0",
+      "url": "https://simonwillison.net/2026/Apr/1/datasette-enrichments-llm/#atom-everything"
+    }
   ]
 }
