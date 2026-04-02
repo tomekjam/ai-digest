@@ -1360,5 +1360,47 @@
       "title": "datasette-enrichments-llm 0.2a0",
       "url": "https://simonwillison.net/2026/Apr/1/datasette-enrichments-llm/#atom-everything"
     }
+  ],
+  "2026-04-02": [
+    {
+      "title": "Quantum computing bombshells that are not April Fools",
+      "url": "https://scottaaronson.blog/?p=9665"
+    },
+    {
+      "title": "The Claude Code Leak",
+      "url": "https://build.ms/2026/4/1/the-claude-code-leak/"
+    },
+    {
+      "title": "Show HN: Git bayesect \u2013 Bayesian Git bisection for non-deterministic bugs",
+      "url": "https://github.com/hauntsaninja/git_bayesect"
+    },
+    {
+      "title": "Signing data structures the wrong way",
+      "url": "https://blog.foks.pub/posts/domain-separation-in-idl/"
+    },
+    {
+      "title": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code \u2014 a move the company says was an accident",
+      "url": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/"
+    },
+    {
+      "title": "Cognichip wants AI to design the chips that power AI, and just raised $60M to try",
+      "url": "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/"
+    },
+    {
+      "title": "OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise",
+      "url": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/"
+    },
+    {
+      "title": "Quantum computers need vastly fewer resources than thought to break vital encryption",
+      "url": "https://arstechnica.com/security/2026/03/new-quantum-computing-advances-heighten-threat-to-elliptic-curve-cryptosystems/"
+    },
+    {
+      "title": "AI benchmarks are broken. Here\u2019s what we need instead.",
+      "url": "https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/"
+    },
+    {
+      "title": "Claude Code leak exposes a Tamagotchi-style \u2018pet\u2019 and an always-on agent",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/904776/anthropic-claude-source-code-leak"
+    }
   ]
 }
