@@ -1402,5 +1402,47 @@
       "title": "Claude Code leak exposes a Tamagotchi-style \u2018pet\u2019 and an always-on agent",
       "url": "https://www.theverge.com/ai-artificial-intelligence/904776/anthropic-claude-source-code-leak"
     }
+  ],
+  "2026-04-03": [
+    {
+      "title": "Gemma 4: Byte for byte, the most capable open models",
+      "url": "https://simonwillison.net/2026/Apr/2/gemma-4/#atom-everything"
+    },
+    {
+      "title": "Google releases Gemma 4 open models",
+      "url": "https://deepmind.google/models/gemma/gemma-4/"
+    },
+    {
+      "title": "Qwen3.6-Plus: Towards real world agents",
+      "url": "https://qwen.ai/blog?id=qwen3.6"
+    },
+    {
+      "title": "Post Mortem: axios NPM supply chain compromise",
+      "url": "https://github.com/axios/axios/issues/10636"
+    },
+    {
+      "title": "Microsoft takes on AI rivals with three new foundational models",
+      "url": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/"
+    },
+    {
+      "title": "New Rowhammer attacks give complete control of machines running Nvidia GPUs",
+      "url": "https://arstechnica.com/security/2026/04/new-rowhammer-attacks-give-complete-control-of-machines-running-nvidia-gpus/"
+    },
+    {
+      "title": "C89cc.sh \u2013 standalone C89/ELF64 compiler in pure portable shell",
+      "url": "https://gist.github.com/alganet/2b89c4368f8d23d033961d8a3deb5c19"
+    },
+    {
+      "title": "Cursor 3",
+      "url": "https://cursor.com/blog/cursor-3"
+    },
+    {
+      "title": "Decisions that eroded trust in Azure \u2013 by a former Azure Core engineer",
+      "url": "https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion"
+    },
+    {
+      "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
+      "url": "https://lemonade-server.ai"
+    }
   ]
 }
