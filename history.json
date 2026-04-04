@@ -1444,5 +1444,47 @@
       "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
       "url": "https://lemonade-server.ai"
     }
+  ],
+  "2026-04-04": [
+    {
+      "title": "Herbie: Automatically improve imprecise floating point formulas",
+      "url": "https://herbie.uwplse.org/doc/latest/tutorial.html"
+    },
+    {
+      "title": "Post Mortem: axios NPM supply chain compromise",
+      "url": "https://github.com/axios/axios/issues/10636"
+    },
+    {
+      "title": "New Rowhammer attacks give complete control of machines running Nvidia GPUs",
+      "url": "https://arstechnica.com/security/2026/04/new-rowhammer-attacks-give-complete-control-of-machines-running-nvidia-gpus/"
+    },
+    {
+      "title": "OpenClaw privilege escalation vulnerability",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-33579"
+    },
+    {
+      "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
+      "url": "https://news.ycombinator.com/item?id=47633396"
+    },
+    {
+      "title": "Run Linux containers on Android, no root required",
+      "url": "https://github.com/ExTV/Podroid"
+    },
+    {
+      "title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
+      "url": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant"
+    },
+    {
+      "title": "Go on Embedded Systems and WebAssembly",
+      "url": "https://tinygo.org/"
+    },
+    {
+      "title": "OpenClaw gives users yet another reason to be freaked out about security",
+      "url": "https://arstechnica.com/security/2026/04/heres-why-its-prudent-for-openclaw-users-to-assume-compromise/"
+    },
+    {
+      "title": "Anthropic essentially bans OpenClaw from Claude by making subscribers pay extra",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban"
+    }
   ]
 }
