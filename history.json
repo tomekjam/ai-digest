@@ -1486,5 +1486,23 @@
       "title": "Anthropic essentially bans OpenClaw from Claude by making subscribers pay extra",
       "url": "https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban"
     }
+  ],
+  "2026-04-05": [
+    {
+      "title": "Show HN: A game where you build a GPU",
+      "url": "https://jaso1024.com/mvidia/"
+    },
+    {
+      "title": "How many products does Microsoft have named 'Copilot'?",
+      "url": "https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html"
+    },
+    {
+      "title": "Embarrassingly simple self-distillation improves code generation",
+      "url": "https://arxiv.org/abs/2604.01193"
+    },
+    {
+      "title": "Apple approves driver that lets Nvidia eGPUs work with Arm Macs",
+      "url": "https://www.theverge.com/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs"
+    }
   ]
 }
