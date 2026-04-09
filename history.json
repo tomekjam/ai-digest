@@ -1598,5 +1598,47 @@
       "title": "How to get better at guitar",
       "url": "https://www.jakeworth.com/posts/how-to-get-better-at-guitar/"
     }
+  ],
+  "2026-04-09": [
+    {
+      "title": "LittleSnitch for Linux",
+      "url": "https://obdev.at/products/littlesnitch-linux/index.html"
+    },
+    {
+      "title": "I ported Mac OS X to the Nintendo Wii",
+      "url": "https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html"
+    },
+    {
+      "title": "They're made out of meat (1991)",
+      "url": "http://www.terrybisson.com/theyre-made-out-of-meat-2/"
+    },
+    {
+      "title": "Git commands I run before reading any code",
+      "url": "https://piechowski.io/post/git-commands-before-reading-code/"
+    },
+    {
+      "title": "Veracrypt project update",
+      "url": "https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/"
+    },
+    {
+      "title": "US cities are axing Flock Safety surveillance technology",
+      "url": "https://www.cnet.com/home/security/when-flock-comes-to-town-why-cities-are-axing-the-controversial-surveillance-technology/"
+    },
+    {
+      "title": "ML promises to be profoundly weird",
+      "url": "https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess"
+    },
+    {
+      "title": "Who is Satoshi Nakamoto? My quest to unmask Bitcoin's creator",
+      "url": "https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html"
+    },
+    {
+      "title": "Show HN: Is Hormuz open yet?",
+      "url": "https://www.ishormuzopenyet.com/"
+    },
+    {
+      "title": "I've been waiting over a month for Anthropic to respond to my billing issue",
+      "url": "https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/"
+    }
   ]
 }
