@@ -1640,5 +1640,15 @@
       "title": "I've been waiting over a month for Anthropic to respond to my billing issue",
       "url": "https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/"
     }
+  ],
+  "2026-04-10": [
+    {
+      "title": "Native Instant Space Switching on macOS",
+      "url": "https://arhan.sh/blog/native-instant-space-switching-on-macos/"
+    },
+    {
+      "title": "How NASA built Artemis II\u2019s fault-tolerant computer",
+      "url": "https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/"
+    }
   ]
 }
