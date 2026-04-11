@@ -1650,5 +1650,39 @@
       "title": "How NASA built Artemis II\u2019s fault-tolerant computer",
       "url": "https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/"
     }
+  ],
+  "2026-04-11": [
+    {
+      "title": "Filing the corners off my MacBooks",
+      "url": "https://kentwalters.com/posts/corners/"
+    },
+    {
+      "title": "1D Chess",
+      "url": "https://rowan441.github.io/1dchess/chess.html"
+    },
+    {
+      "title": "Artemis II safely splashes down",
+      "url": "https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/"
+    },
+    {
+      "title": "WireGuard makes new Windows release following Microsoft signing resolution",
+      "url": "https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html"
+    },
+    {
+      "title": "Industrial design files for Keychron keyboards and mice",
+      "url": "https://github.com/Keychron/Keychron-Keyboards-Hardware-Design"
+    },
+    {
+      "title": "Installing every* Firefox extension",
+      "url": "https://jack.cab/blog/every-firefox-extension"
+    },
+    {
+      "title": "CPU-Z and HWMonitor compromised",
+      "url": "https://www.theregister.com/2026/04/10/cpuid_site_hijacked/"
+    },
+    {
+      "title": "Chimpanzees in Uganda locked in eight-year 'civil war', say researchers",
+      "url": "https://www.bbc.com/news/articles/cr71lkzv49po"
+    }
   ]
 }
