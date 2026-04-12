@@ -1684,5 +1684,23 @@
       "title": "Chimpanzees in Uganda locked in eight-year 'civil war', say researchers",
       "url": "https://www.bbc.com/news/articles/cr71lkzv49po"
     }
+  ],
+  "2026-04-12": [
+    {
+      "title": "Small models also found the vulnerabilities that Mythos found",
+      "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier"
+    },
+    {
+      "title": "Show HN: Pardonned.com \u2013 A searchable database of US Pardons",
+      "url": "https://news.ycombinator.com/item?id=47727960"
+    },
+    {
+      "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
+      "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/"
+    },
+    {
+      "title": "Every plane you see in the sky \u2013 you can now follow it from the cockpit in 3D",
+      "url": "https://flight-viz.com/cockpit.html?lat=40.64&lon=-73.78&alt=3000&hdg=220&spd=130&cs=DAL123"
+    }
   ]
 }
