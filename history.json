@@ -1702,5 +1702,47 @@
       "title": "Every plane you see in the sky \u2013 you can now follow it from the cockpit in 3D",
       "url": "https://flight-viz.com/cockpit.html?lat=40.64&lon=-73.78&alt=3000&hdg=220&spd=130&cs=DAL123"
     }
+  ],
+  "2026-04-13": [
+    {
+      "title": "Bring Back Idiomatic Design (2023)",
+      "url": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design"
+    },
+    {
+      "title": "Tell HN: Docker pull fails in Spain due to football Cloudflare block",
+      "url": "https://news.ycombinator.com/item?id=47738883"
+    },
+    {
+      "title": "Exploiting the most prominent AI agent benchmarks",
+      "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/"
+    },
+    {
+      "title": "Seven countries now generate nearly all their electricity from renewables (2024)",
+      "url": "https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html"
+    },
+    {
+      "title": "Pro Max 5x quota exhausted in 1.5 hours despite moderate usage",
+      "url": "https://github.com/anthropics/claude-code/issues/45756"
+    },
+    {
+      "title": "Google removes \"Doki Doki Literature Club\" from Google Play",
+      "url": "https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t"
+    },
+    {
+      "title": "DIY Soft Drinks",
+      "url": "https://blinry.org/diy-soft-drinks/"
+    },
+    {
+      "title": "The peril of laziness lost",
+      "url": "https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/"
+    },
+    {
+      "title": "Show HN: boringBar \u2013 a taskbar-style dock replacement for macOS",
+      "url": "https://boringbar.app/"
+    },
+    {
+      "title": "Most people can't juggle one ball",
+      "url": "https://www.lesswrong.com/posts/jTGbKKGqs5EdyYoRc/most-people-can-t-juggle-one-ball"
+    }
   ]
 }
