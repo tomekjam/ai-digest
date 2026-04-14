@@ -1744,5 +1744,35 @@
       "title": "Most people can't juggle one ball",
       "url": "https://www.lesswrong.com/posts/jTGbKKGqs5EdyYoRc/most-people-can-t-juggle-one-ball"
     }
+  ],
+  "2026-04-14": [
+    {
+      "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
+      "url": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/"
+    },
+    {
+      "title": "GitHub Stacked PRs",
+      "url": "https://github.github.com/gh-stack/"
+    },
+    {
+      "title": "DaVinci Resolve releases Photo Editor",
+      "url": "https://www.blackmagicdesign.com/products/davinciresolve/photo"
+    },
+    {
+      "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
+      "url": "https://github.com/sterlingcrispin/nothing-ever-happens"
+    },
+    {
+      "title": "US appeals court declares 158-year-old home distilling ban unconstitutional",
+      "url": "https://nypost.com/2026/04/11/us-news/us-appeals-court-declares-158-year-old-home-distilling-ban-unconstitutional/"
+    },
+    {
+      "title": "Make tmux pretty and usable (2024)",
+      "url": "https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/"
+    },
+    {
+      "title": "Android now stops you sharing your location in photos",
+      "url": "https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/"
+    }
   ]
 }
