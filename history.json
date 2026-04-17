@@ -1822,5 +1822,23 @@
       "title": "Stop Using Ollama",
       "url": "https://sleepingrobots.com/dreams/stop-using-ollama/"
     }
+  ],
+  "2026-04-17": [
+    {
+      "title": "Claude Opus 4.7",
+      "url": "https://www.anthropic.com/news/claude-opus-4-7"
+    },
+    {
+      "title": "Codex for almost everything",
+      "url": "https://openai.com/index/codex-for-almost-everything/"
+    },
+    {
+      "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
+      "url": "https://qwen.ai/blog?id=qwen3.6-35b-a3b"
+    },
+    {
+      "title": "The future of everything is lies, I guess: Where do we go from here?",
+      "url": "https://aphyr.com/posts/420-the-future-of-everything-is-lies-i-guess-where-do-we-go-from-here"
+    }
   ]
 }
