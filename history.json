@@ -1884,5 +1884,15 @@
       "title": "The electromechanical angle computer inside the B-52 bomber's star tracker",
       "url": "https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html"
     }
+  ],
+  "2026-04-20": [
+    {
+      "title": "Vercel April 2026 security incident",
+      "url": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/"
+    },
+    {
+      "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
+      "url": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/"
+    }
   ]
 }
