@@ -2022,5 +2022,19 @@
       "title": "French government agency confirms breach as hacker offers to sell data",
       "url": "https://www.bleepingcomputer.com/news/security/french-govt-agency-confirms-breach-as-hacker-offers-to-sell-data/"
     }
+  ],
+  "2026-04-25": [
+    {
+      "title": "Google plans to invest up to $40B in Anthropic",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic"
+    },
+    {
+      "title": "DeepSeek v4",
+      "url": "https://api-docs.deepseek.com/news/news260424"
+    },
+    {
+      "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
+      "url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/"
+    }
   ]
 }
