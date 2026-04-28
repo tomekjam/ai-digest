@@ -2068,5 +2068,39 @@
       "title": "Sawe becomes first athlete to run a sub-two-hour marathon in a competitive race",
       "url": "https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo"
     }
+  ],
+  "2026-04-28": [
+    {
+      "title": "Is my blue your blue?",
+      "url": "https://ismy.blue/"
+    },
+    {
+      "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai"
+    },
+    {
+      "title": "Men who stare at walls",
+      "url": "https://www.alexselimov.com/posts/men_who_stare_at_walls/"
+    },
+    {
+      "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
+      "url": "https://app.oravys.com/blog/mercor-breach-2026"
+    },
+    {
+      "title": "GitHub Copilot is moving to usage-based billing",
+      "url": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/"
+    },
+    {
+      "title": "Pgbackrest is no longer being maintained",
+      "url": "https://github.com/pgbackrest/pgbackrest"
+    },
+    {
+      "title": "Talkie: a 13B vintage language model from 1930",
+      "url": "https://talkie-lm.com/introducing-talkie"
+    },
+    {
+      "title": "Quarkdown \u2013 Markdown with Superpowers",
+      "url": "https://quarkdown.com/"
+    }
   ]
 }
