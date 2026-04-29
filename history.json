@@ -2102,5 +2102,47 @@
       "title": "Quarkdown \u2013 Markdown with Superpowers",
       "url": "https://quarkdown.com/"
     }
+  ],
+  "2026-04-29": [
+    {
+      "title": "Ghostty is leaving GitHub",
+      "url": "https://mitchellh.com/writing/ghostty-leaving-github"
+    },
+    {
+      "title": "Your phone is about to stop being yours",
+      "url": "https://keepandroidopen.org/en/"
+    },
+    {
+      "title": "Talkie: a 13B vintage language model from 1930",
+      "url": "https://talkie-lm.com/introducing-talkie"
+    },
+    {
+      "title": "Localsend: An open-source cross-platform alternative to AirDrop",
+      "url": "https://github.com/localsend/localsend"
+    },
+    {
+      "title": "Before GitHub",
+      "url": "https://lucumr.pocoo.org/2026/4/28/before-github/"
+    },
+    {
+      "title": "UAE to leave OPEC",
+      "url": "https://www.ft.com/content/8c354f2d-3e66-47f1-aad4-9b4aa30e386d"
+    },
+    {
+      "title": "Who owns the code Claude Code wrote?",
+      "url": "https://legallayer.substack.com/p/who-owns-the-claude-code-wrote"
+    },
+    {
+      "title": "An update on GitHub availability",
+      "url": "https://github.blog/news-insights/company-news/an-update-on-github-availability/"
+    },
+    {
+      "title": "GitHub RCE Vulnerability: CVE-2026-3854 Breakdown",
+      "url": "https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854"
+    },
+    {
+      "title": "How ChatGPT serves ads",
+      "url": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/"
+    }
   ]
 }
