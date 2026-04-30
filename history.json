@@ -2144,5 +2144,35 @@
       "title": "How ChatGPT serves ads",
       "url": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/"
     }
+  ],
+  "2026-04-30": [
+    {
+      "title": "Cursor Camp",
+      "url": "https://neal.fun/cursor-camp/"
+    },
+    {
+      "title": "Where the goblins came from",
+      "url": "https://openai.com/index/where-the-goblins-came-from/"
+    },
+    {
+      "title": "Zed 1.0",
+      "url": "https://zed.dev/blog/zed-1-0"
+    },
+    {
+      "title": "Copy Fail",
+      "url": "https://copy.fail/"
+    },
+    {
+      "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
+      "url": "https://github.com/anthropics/claude-code/issues/53262"
+    },
+    {
+      "title": "We need a federation of forges",
+      "url": "https://blog.tangled.org/federation/"
+    },
+    {
+      "title": "FastCGI: 30 years old and still the better protocol for reverse proxies",
+      "url": "https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies"
+    }
   ]
 }
