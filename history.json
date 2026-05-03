@@ -2234,5 +2234,23 @@
       "title": "New research suggests people can communicate and practice skills while dreaming",
       "url": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we"
     }
+  ],
+  "2026-05-03": [
+    {
+      "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
+      "url": "https://github.com/microsoft/vscode/pull/310226"
+    },
+    {
+      "title": "Dav2d",
+      "url": "https://code.videolan.org/videolan/dav2d"
+    },
+    {
+      "title": "NetHack 5.0.0",
+      "url": "https://nethack.org/v500/release.html"
+    },
+    {
+      "title": "This Month in Ladybird - April 2026",
+      "url": "https://ladybird.org/newsletter/2026-04-30/"
+    }
   ]
 }
