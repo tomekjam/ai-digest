@@ -2290,5 +2290,31 @@
       "title": "Denuvo has been cracked in all single-player games it previously protected",
       "url": "https://www.tomshardware.com/video-games/pc-gaming/denuvo-has-been-bypassed-in-all-single-player-games-it-previously-protected-2k-games-and-denuvo-reportedly-retaliate-with-mandatory-14-day-online-checks"
     }
+  ],
+  "2026-05-05": [
+    {
+      "title": "Talking to strangers at the gym",
+      "url": "https://thienantran.com/talking-to-35-strangers-at-the-gym/"
+    },
+    {
+      "title": "Microsoft Edge stores all passwords in memory in clear text, even when unused",
+      "url": "https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730"
+    },
+    {
+      "title": "I am worried about Bun",
+      "url": "https://wwj.dev/posts/i-am-worried-about-bun/"
+    },
+    {
+      "title": "Bun is being ported from Zig to Rust",
+      "url": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5"
+    },
+    {
+      "title": "How OpenAI delivers low-latency voice AI at scale",
+      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/"
+    },
+    {
+      "title": "Y Combinator's Stake in OpenAI (0.6%?)",
+      "url": "https://daringfireball.net/2026/05/y_combinators_stake_in_openai"
+    }
   ]
 }
