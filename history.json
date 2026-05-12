@@ -2492,5 +2492,27 @@
       "title": "Idempotency is easy until the second request is different",
       "url": "https://blog.dochia.dev/blog/idempotency/"
     }
+  ],
+  "2026-05-12": [
+    {
+      "title": "Postmortem: TanStack NPM supply-chain compromise",
+      "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem"
+    },
+    {
+      "title": "GitLab announces workforce reduction and end of their CREDIT values",
+      "url": "https://about.gitlab.com/blog/gitlab-act-2/"
+    },
+    {
+      "title": "Hardware Attestation as Monopoly Enabler",
+      "url": "https://grapheneos.social/@GrapheneOS/116550899908879585"
+    },
+    {
+      "title": "If AI writes your code, why use Python?",
+      "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055"
+    },
+    {
+      "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
+      "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage"
+    }
   ]
 }
