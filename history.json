@@ -2514,5 +2514,47 @@
       "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
       "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage"
     }
+  ],
+  "2026-05-13": [
+    {
+      "title": "Googlebook",
+      "url": "https://googlebook.google/"
+    },
+    {
+      "title": "Why senior developers fail to communicate their expertise",
+      "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise"
+    },
+    {
+      "title": "Bambu Lab is abusing the open source social contract",
+      "url": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/"
+    },
+    {
+      "title": "Rendering the Sky, Sunsets, and Planets",
+      "url": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/"
+    },
+    {
+      "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+      "url": "https://github.com/cactus-compute/needle"
+    },
+    {
+      "title": "Restore full BambuNetwork support for Bambu Lab printers",
+      "url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab"
+    },
+    {
+      "title": "The Future of Obsidian Plugins",
+      "url": "https://obsidian.md/blog/future-of-plugins/"
+    },
+    {
+      "title": "How to make your text look futuristic (2016)",
+      "url": "https://typesetinthefuture.com/2016/02/18/futuristic/"
+    },
+    {
+      "title": "Tell NYT, Atlantic, USA Today to keep Wayback Machine",
+      "url": "https://www.savethearchive.com/newsleaders/"
+    },
+    {
+      "title": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
+      "url": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html"
+    }
   ]
 }
