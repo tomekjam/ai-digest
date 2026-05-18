@@ -2664,5 +2664,23 @@
       "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
       "url": "https://nvlabs.github.io/Sana/WM/"
     }
+  ],
+  "2026-05-18": [
+    {
+      "title": "I don't think AI will make your processes go faster",
+      "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/"
+    },
+    {
+      "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
+      "url": "https://github.com/tech4bot/rk3562deb"
+    },
+    {
+      "title": "Show HN: Semble \u2013 Code search for agents that uses 98% fewer tokens than grep",
+      "url": "https://github.com/MinishLab/semble"
+    },
+    {
+      "title": "GenCAD",
+      "url": "https://gencad.github.io/"
+    }
   ]
 }
