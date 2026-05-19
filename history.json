@@ -2682,5 +2682,23 @@
       "title": "GenCAD",
       "url": "https://gencad.github.io/"
     }
+  ],
+  "2026-05-19": [
+    {
+      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+      "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/"
+    },
+    {
+      "title": "The last six months in LLMs in five minutes",
+      "url": "https://simonwillison.net/2026/May/19/5-minute-llms/"
+    },
+    {
+      "title": "Anthropic acquires Stainless",
+      "url": "https://www.anthropic.com/news/anthropic-acquires-stainless"
+    },
+    {
+      "title": "Click (2016)",
+      "url": "https://clickclickclick.click/"
+    }
   ]
 }
