@@ -2700,5 +2700,43 @@
       "title": "Click (2016)",
       "url": "https://clickclickclick.click/"
     }
+  ],
+  "2026-05-20": [
+    {
+      "title": "I\u2019ve built a virtual museum with nearly every operating system you can think of",
+      "url": "https://virtualosmuseum.org/"
+    },
+    {
+      "title": "Google changes its search box",
+      "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/"
+    },
+    {
+      "title": "Gemini 3.5 Flash",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/"
+    },
+    {
+      "title": "Apple unveils new accessibility features",
+      "url": "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/"
+    },
+    {
+      "title": "Minnesota becomes first state to ban prediction markets",
+      "url": "https://www.npr.org/2026/05/19/nx-s1-5821265/minnesota-ban-prediction-markets"
+    },
+    {
+      "title": "I\u2019ve joined Anthropic",
+      "url": "https://twitter.com/karpathy/status/2056753169888334312"
+    },
+    {
+      "title": "Show HN: Forge \u2013 Guardrails take an 8B model from 53% to 99% on agentic tasks",
+      "url": "https://github.com/antoinezambelli/forge"
+    },
+    {
+      "title": "Incident Report: Railway Blocked by Google Cloud (Resolved)",
+      "url": "https://blog.railway.com/p/incident-report-may-19-2026-gcp-account-outage"
+    },
+    {
+      "title": "GitHub is investigating unauthorized access to their internal repositories",
+      "url": "https://twitter.com/github/status/2056884788179726685"
+    }
   ]
 }
