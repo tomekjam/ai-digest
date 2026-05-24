@@ -2836,5 +2836,19 @@
       "title": "Deno 2.8",
       "url": "https://deno.com/blog/v2.8"
     }
+  ],
+  "2026-05-24": [
+    {
+      "title": "Green card seekers must leave U.S. to apply, Trump administration says",
+      "url": "https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html"
+    },
+    {
+      "title": "On The <dl> (2021)",
+      "url": "https://benmyers.dev/blog/on-the-dl/"
+    },
+    {
+      "title": "Time to talk about my writerdeck",
+      "url": "https://veronicaexplains.net/my-first-writerdeck/"
+    }
   ]
 }
