@@ -2850,5 +2850,31 @@
       "title": "Time to talk about my writerdeck",
       "url": "https://veronicaexplains.net/my-first-writerdeck/"
     }
+  ],
+  "2026-05-25": [
+    {
+      "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+      "url": "https://esengine.github.io/DeepSeek-Reasonix/"
+    },
+    {
+      "title": "I spent 50 hours drawing a line graph",
+      "url": "https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html"
+    },
+    {
+      "title": "Microsoft open-sources \u201cthe earliest DOS source code discovered to date\u201d",
+      "url": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/"
+    },
+    {
+      "title": "Memory has grown to nearly two-thirds of AI chip component costs",
+      "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares"
+    },
+    {
+      "title": "Show HN: Audiomass \u2013 a free, open-source multitrack audio editor for the web",
+      "url": "https://audiomass.co/?multitrack=1"
+    },
+    {
+      "title": "The Eternal Sloptember",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html"
+    }
   ]
 }
