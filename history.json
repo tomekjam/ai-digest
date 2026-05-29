@@ -2936,5 +2936,35 @@
       "title": "Incident with Pull Requests, Issues, Git Operations and API Requests",
       "url": "https://www.githubstatus.com/incidents/xy1tt3hs572m"
     }
+  ],
+  "2026-05-29": [
+    {
+      "title": "Claude Opus 4.8",
+      "url": "https://www.anthropic.com/news/claude-opus-4-8"
+    },
+    {
+      "title": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
+      "url": "https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection"
+    },
+    {
+      "title": "I made a million dollar product from my dorm room (2025)",
+      "url": "https://nick.winans.io/blog/nice-nano/"
+    },
+    {
+      "title": "GitHub bans security researcher who posted zero-day Windows exploits",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation"
+    },
+    {
+      "title": "Cars collect a startling amount of data about you",
+      "url": "https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse"
+    },
+    {
+      "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
+      "url": "https://llmgame.scalex.dev"
+    },
+    {
+      "title": "Building durable workflows on Postgres",
+      "url": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution"
+    }
   ]
 }
