@@ -2966,5 +2966,31 @@
       "title": "Building durable workflows on Postgres",
       "url": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution"
     }
+  ],
+  "2026-05-30": [
+    {
+      "title": "SQLite is all you need for durable workflows",
+      "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/"
+    },
+    {
+      "title": "The dead economy theory",
+      "url": "https://www.owenmcgrann.com/p/the-dead-economy-theory"
+    },
+    {
+      "title": "Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM",
+      "url": "https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions"
+    },
+    {
+      "title": "Notes from the Mistral AI Now Summit",
+      "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit"
+    },
+    {
+      "title": "Is AI causing a repeat of frontend\u2019s lost decade?",
+      "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/"
+    },
+    {
+      "title": "What Is a Dickover?",
+      "url": "https://daringfireball.net/2026/05/what_is_a_dickover"
+    }
   ]
 }
