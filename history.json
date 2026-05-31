@@ -2992,5 +2992,31 @@
       "title": "What Is a Dickover?",
       "url": "https://daringfireball.net/2026/05/what_is_a_dickover"
     }
+  ],
+  "2026-05-31": [
+    {
+      "title": "Domain expertise has always been the real moat",
+      "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/"
+    },
+    {
+      "title": "Microsoft Office 2019 and 2021 for Mac view-only conversion",
+      "url": "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)"
+    },
+    {
+      "title": "OpenRouter raises $113M Series B",
+      "url": "https://openrouter.ai/announcements/series-b"
+    },
+    {
+      "title": "Openrsync: An implementation of rsync, by the OpenBSD team",
+      "url": "https://github.com/kristapsdz/openrsync"
+    },
+    {
+      "title": "Pandoc Templates",
+      "url": "https://pandoc-templates.org/"
+    },
+    {
+      "title": "I found a seashell in the middle of the desert",
+      "url": "https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert#i-found-a-seashell-in-the-middle-of-the-desert"
+    }
   ]
 }
