@@ -3302,5 +3302,39 @@
       "title": "Upcoming breaking changes for npm v12",
       "url": "https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/"
     }
+  ],
+  "2026-06-11": [
+    {
+      "title": "\u03c0FS",
+      "url": "https://github.com/philipl/pifs"
+    },
+    {
+      "title": "I'm Eric Ries, author of \"The Lean Startup\" and new book \"Incorruptible\" \u2013 AMA",
+      "url": "https://news.ycombinator.com/item?id=48477135"
+    },
+    {
+      "title": "Building an HTML-first site doubled our users overnight",
+      "url": "https://mohkohn.co.uk/writing/html-first/"
+    },
+    {
+      "title": "PgDog is funded and coming to a database near you",
+      "url": "https://pgdog.dev/blog/our-funding-announcement"
+    },
+    {
+      "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
+      "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/"
+    },
+    {
+      "title": "Anthropic requires 30 day data retention for Fable and Mythos",
+      "url": "https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models"
+    },
+    {
+      "title": "AI agent runs amok in Fedora and elsewhere",
+      "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/"
+    },
+    {
+      "title": "Pok\u00e9mon Go Scans Trained the Navigation Tech for Military Drones",
+      "url": "https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/"
+    }
   ]
 }
