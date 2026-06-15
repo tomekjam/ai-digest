@@ -3430,5 +3430,35 @@
       "title": "Treating pancreatic tumours may have revealed cancer's master switch",
       "url": "https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch"
     }
+  ],
+  "2026-06-15": [
+    {
+      "title": "Your ePub Is fine",
+      "url": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/"
+    },
+    {
+      "title": "Firewood Splitting Simulator",
+      "url": "https://screen.toys/firewood/"
+    },
+    {
+      "title": "Curl will not accept vulnerability reports during July 2026",
+      "url": "https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/"
+    },
+    {
+      "title": "Show HN: Kage \u2013 Shadow any website to a single binary for offline viewing",
+      "url": "https://github.com/tamnd/kage"
+    },
+    {
+      "title": "Windows 11 users are tired of MS account requirements creeping into everything",
+      "url": "https://www.windowscentral.com/microsoft/windows-11/windows-11-users-are-tired-of-microsoft-account-requirements-and-workarounds"
+    },
+    {
+      "title": "What the Fuck Happened to Nerds",
+      "url": "https://mrmarket.lol/what-the-fuck-happened-to-nerds/"
+    },
+    {
+      "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+      "url": "https://github.com/nex-agi/Nex-N2/issues/4"
+    }
   ]
 }
