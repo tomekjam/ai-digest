@@ -3554,5 +3554,31 @@
       "title": "RFC 10008: The new HTTP Query Method",
       "url": "https://www.rfc-editor.org/info/rfc10008/"
     }
+  ],
+  "2026-06-19": [
+    {
+      "title": "I found 10k GitHub repositories distributing Trojan malware",
+      "url": "https://orchidfiles.com/github-repositories-distributing-malware/"
+    },
+    {
+      "title": ".gitignore Isn't the only way to ignore files in Git",
+      "url": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/"
+    },
+    {
+      "title": "CS 6120: Advanced Compilers: The Self-Guided Online Course (2020)",
+      "url": "https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/"
+    },
+    {
+      "title": "Show HN: Are You in the Weights?",
+      "url": "https://www.intheweights.com/"
+    },
+    {
+      "title": "Ubiquiti: Enterprise NAS, Built on ZFS",
+      "url": "https://blog.ui.com/article/introducing-enterprise-nas"
+    },
+    {
+      "title": "Hospitals and universities repurposing drugs at lower cost",
+      "url": "https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost"
+    }
   ]
 }
