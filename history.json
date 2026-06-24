@@ -3666,5 +3666,31 @@
       "title": "My Mathematical Regression",
       "url": "https://blog.dahl.dev/posts/my-mathematical-regression/"
     }
+  ],
+  "2026-06-24": [
+    {
+      "title": "FUTO Swipe \u2013 A new swipe typing model",
+      "url": "https://swipe.futo.tech/"
+    },
+    {
+      "title": "Fired by Google for creating the Google workspace CLI",
+      "url": "https://twitter.com/JPoehnelt/status/2069482265953087602"
+    },
+    {
+      "title": "Jerry's Map",
+      "url": "http://www.jerrysmap.com/the-map"
+    },
+    {
+      "title": "Show HN: TikZ Editor \u2013 WYSIWYG editor for figures in LaTeX",
+      "url": "https://tikz.dev/editor/"
+    },
+    {
+      "title": "In memory of the man who put red and green squiggles under words",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451"
+    },
+    {
+      "title": "Printing Gaussian Splats",
+      "url": "https://www.patreon.com/DanyBittel/posts/printing-splats-161333338"
+    }
   ]
 }
