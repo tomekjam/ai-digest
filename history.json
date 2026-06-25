@@ -3692,5 +3692,31 @@
       "title": "Printing Gaussian Splats",
       "url": "https://www.patreon.com/DanyBittel/posts/printing-splats-161333338"
     }
+  ],
+  "2026-06-25": [
+    {
+      "title": "OpenAI unveils its first custom chip, built by Broadcom",
+      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/"
+    },
+    {
+      "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+      "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/"
+    },
+    {
+      "title": "RubyLLM: A Ruby framework for all major AI providers",
+      "url": "https://rubyllm.com/"
+    },
+    {
+      "title": "Krea 2: SOTA open-weights 12B image model",
+      "url": "https://www.krea.ai/blog/krea-2-technical-report"
+    },
+    {
+      "title": "45\u00b0C cooling design cuts data center water use to near zero",
+      "url": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/"
+    },
+    {
+      "title": "A Practical Guide to SSH Tunnels: Local and Remote Port Forwarding",
+      "url": "https://labs.iximiuz.com/tutorials/ssh-tunnels"
+    }
   ]
 }
