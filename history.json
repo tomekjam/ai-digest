@@ -3872,5 +3872,31 @@
       "title": "A native graphical shell for SSH",
       "url": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html"
     }
+  ],
+  "2026-07-02": [
+    {
+      "title": "For first time, a cell built from scratch grows and divides",
+      "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/"
+    },
+    {
+      "title": "A new Android malware from Google",
+      "url": "https://f-droid.org/2026/07/01/adv-malware.html"
+    },
+    {
+      "title": "ZCode \u2013 Harness for GLM-5.2",
+      "url": "https://zcode.z.ai/en"
+    },
+    {
+      "title": "FFmpeg 9.1's new AAC encoder",
+      "url": "https://hydrogenaudio.org/index.php/topic,129691.0.html"
+    },
+    {
+      "title": "Show HN: Searchable directory of 22k+ products from worker-owned co-ops",
+      "url": "https://www.workerowned.info/"
+    },
+    {
+      "title": "What to learn to be a graphics programmer",
+      "url": "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/"
+    }
   ]
 }
