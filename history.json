@@ -3898,5 +3898,31 @@
       "title": "What to learn to be a graphics programmer",
       "url": "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/"
     }
+  ],
+  "2026-07-03": [
+    {
+      "title": "Virginia bans sale of geolocation data",
+      "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data"
+    },
+    {
+      "title": "Podman v6.0.0",
+      "url": "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/"
+    },
+    {
+      "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
+      "url": "https://mathstodon.xyz/@iblech/116769502749142438"
+    },
+    {
+      "title": "Immich 3.0",
+      "url": "https://github.com/immich-app/immich/discussions/29439"
+    },
+    {
+      "title": "An American Privacy Emergency",
+      "url": "https://scottaaronson.blog/?p=9902"
+    },
+    {
+      "title": "CarPlay Is Additive",
+      "url": "https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts"
+    }
   ]
 }
