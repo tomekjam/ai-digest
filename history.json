@@ -3978,5 +3978,35 @@
       "title": "GPT-5.6 Sol Ultra will be in Codex",
       "url": "https://twitter.com/thsottiaux/status/2073933490513752151"
     }
+  ],
+  "2026-07-07": [
+    {
+      "title": "OpenWrt One \u2013 Open Hardware Router",
+      "url": "https://openwrt.org/toh/openwrt/one"
+    },
+    {
+      "title": "CoMaps \u2013 FOSS Offline Maps",
+      "url": "https://www.comaps.app/"
+    },
+    {
+      "title": "Resetting Xbox",
+      "url": "https://news.xbox.com/en-us/2026/07/06/resetting-xbox/"
+    },
+    {
+      "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
+      "url": "https://github.com/MaximeRivest/Riddle"
+    },
+    {
+      "title": "GLM 5.2 and the coming AI margin collapse",
+      "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/"
+    },
+    {
+      "title": "A global workspace in language models",
+      "url": "https://www.anthropic.com/research/global-workspace"
+    },
+    {
+      "title": "AMD Ryzen AI Halo \u2013 $4k AI Dev Kit",
+      "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo"
+    }
   ]
 }
