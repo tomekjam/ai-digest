@@ -4034,5 +4034,43 @@
       "title": "Show HN: Davit, a Apple Containers UI",
       "url": "https://davit.app"
     }
+  ],
+  "2026-07-09": [
+    {
+      "title": "John Deere owners will get the right to repair equipment under FTC settlement",
+      "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02"
+    },
+    {
+      "title": "Rewriting Bun in Rust",
+      "url": "https://bun.com/blog/bun-in-rust"
+    },
+    {
+      "title": "Grok 4.5",
+      "url": "https://x.ai/news/grok-4-5"
+    },
+    {
+      "title": "Chatto is now open source",
+      "url": "https://www.hmans.dev/blog/chatto-is-open-source"
+    },
+    {
+      "title": "GPT\u2011Live",
+      "url": "https://openai.com/index/introducing-gpt-live/"
+    },
+    {
+      "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
+      "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/"
+    },
+    {
+      "title": "TypeScript 7",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/"
+    },
+    {
+      "title": "Cloudflare Drop",
+      "url": "https://www.cloudflare.com/drop/"
+    },
+    {
+      "title": "FAANG Simulator",
+      "url": "https://www.abeyk.com/escape-the-rat-race/"
+    }
   ]
 }
