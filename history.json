@@ -4072,5 +4072,43 @@
       "title": "FAANG Simulator",
       "url": "https://www.abeyk.com/escape-the-rat-race/"
     }
+  ],
+  "2026-07-10": [
+    {
+      "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+      "url": "https://github.com/malisper/pgrust"
+    },
+    {
+      "title": "GPT-5.6",
+      "url": "https://openai.com/index/gpt-5-6/"
+    },
+    {
+      "title": "Show HN: Getting GLM 5.2 running on my slow computer",
+      "url": "https://github.com/JustVugg/colibri"
+    },
+    {
+      "title": "EU Parliament greenlights Chat Control 1.0",
+      "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/"
+    },
+    {
+      "title": "Show HN: 18 Words",
+      "url": "https://18words.com/"
+    },
+    {
+      "title": "Train sim created by just one person is being called the best ever made",
+      "url": "https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429"
+    },
+    {
+      "title": "Hy3",
+      "url": "https://hy.tencent.com/research/hy3"
+    },
+    {
+      "title": "The glass backbone: Why the Army's logistics will break in the next war",
+      "url": "https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/"
+    },
+    {
+      "title": "Muse Spark 1.1",
+      "url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/"
+    }
   ]
 }
