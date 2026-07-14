@@ -7,6 +7,7 @@ layout: default
 
 *AI-curated tech news, updated daily.*
 
+- [Tuesday, July 14, 2026](2026-07-14)
 - [Monday, July 13, 2026](2026-07-13)
 - [Saturday, July 11, 2026](2026-07-11)
 - [Friday, July 10, 2026](2026-07-10)
@@ -36,4 +37,3 @@ layout: default
 - [Sunday, June 14, 2026](2026-06-14)
 - [Saturday, June 13, 2026](2026-06-13)
 - [Friday, June 12, 2026](2026-06-12)
-- [Thursday, June 11, 2026](2026-06-11)
