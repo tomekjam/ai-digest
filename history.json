@@ -4212,5 +4212,23 @@
       "title": "Grok Build is open source",
       "url": "https://github.com/xai-org/grok-build"
     }
+  ],
+  "2026-07-17": [
+    {
+      "title": "Kimi K3: Open Frontier Intelligence",
+      "url": "https://www.kimi.com/blog/kimi-k3"
+    },
+    {
+      "title": "Decoy Font",
+      "url": "https://www.mixfont.com/experiments/decoy-font"
+    },
+    {
+      "title": "Microsoft Comic Chat is now open source",
+      "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/"
+    },
+    {
+      "title": "NotebookLM is now Gemini Notebook",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/"
+    }
   ]
 }
