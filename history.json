@@ -4230,5 +4230,27 @@
       "title": "NotebookLM is now Gemini Notebook",
       "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/"
     }
+  ],
+  "2026-07-18": [
+    {
+      "title": "AWS: Inaccurate Estimated Billing Data \u2013 $1.7 billion",
+      "url": "https://news.ycombinator.com/item?id=48945241"
+    },
+    {
+      "title": "Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
+      "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/"
+    },
+    {
+      "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
+      "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo"
+    },
+    {
+      "title": "The state of open source AI",
+      "url": "https://stateofopensource.ai/"
+    },
+    {
+      "title": "Kimi K3, and what we can still learn from the pelican benchmark",
+      "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/"
+    }
   ]
 }
