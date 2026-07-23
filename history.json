@@ -4376,5 +4376,47 @@
       "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
       "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git"
     }
+  ],
+  "2026-07-23": [
+    {
+      "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
+      "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56"
+    },
+    {
+      "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
+      "url": "https://bento.page/slides/"
+    },
+    {
+      "title": "GigaToken: ~1000x faster Language model tokenization",
+      "url": "https://github.com/marcelroed/gigatoken/"
+    },
+    {
+      "title": "Are AI labs pelicanmaxxing?",
+      "url": "https://dylancastillo.co/posts/pelicanmaxxing.html"
+    },
+    {
+      "title": "John C. Dvorak has died",
+      "url": "https://twitter.com/na_announce/status/2079952538040672302"
+    },
+    {
+      "title": "So Reddit has decided that plain HTML is unsafe",
+      "url": "https://www.cole-k.com/2026/07/21/reddit/"
+    },
+    {
+      "title": "Everyone should know SIMD",
+      "url": "https://mitchellh.com/writing/everyone-should-know-simd"
+    },
+    {
+      "title": "The startup's Postgres survival guide",
+      "url": "https://hatchet.run/blog/postgres-survival-guide"
+    },
+    {
+      "title": "Quality non-fiction books are the antithesis of AI slop",
+      "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the"
+    },
+    {
+      "title": "Making",
+      "url": "https://beej.us/blog/data/ai-making/"
+    }
   ]
 }
