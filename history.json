@@ -4418,5 +4418,39 @@
       "title": "Making",
       "url": "https://beej.us/blog/data/ai-making/"
     }
+  ],
+  "2026-07-24": [
+    {
+      "title": "Writing by hand is good for your brain",
+      "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your"
+    },
+    {
+      "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+      "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992"
+    },
+    {
+      "title": "OpenAI\u2019s accidental attack against Hugging Face is science fiction that happened",
+      "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/"
+    },
+    {
+      "title": "98.css",
+      "url": "https://jdan.github.io/98.css/#status-bar"
+    },
+    {
+      "title": "Show HN: Echo \u2013 Fable-level results at 1/3 the cost using open-weight models",
+      "url": "https://news.ycombinator.com/item?id=49026810"
+    },
+    {
+      "title": "The Beam Engine",
+      "url": "https://glinscott.github.io/beam-engine/"
+    },
+    {
+      "title": "What happened to TheNumbers.com",
+      "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all"
+    },
+    {
+      "title": "Why Software Factories Fail (or: harness engineering is not enough)",
+      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md"
+    }
   ]
 }
