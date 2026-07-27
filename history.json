@@ -4484,5 +4484,39 @@
       "title": "The new rules of context engineering for Claude 5 generation models",
       "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models"
     }
+  ],
+  "2026-07-27": [
+    {
+      "title": "PGSimCity - How PostgreSQL Works",
+      "url": "https://nikolays.github.io/PGSimCity/"
+    },
+    {
+      "title": "US citizen charged after GrapheneOS phone wipes during airport search",
+      "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html"
+    },
+    {
+      "title": "Kill The Cookie Banner",
+      "url": "https://killthecookiebanner.eu/"
+    },
+    {
+      "title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
+      "url": "https://swag.htmx.org/en-cad/products/htmx-4-the-game"
+    },
+    {
+      "title": "French firefighters face 'pyrocumulonimbus' for first time",
+      "url": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time"
+    },
+    {
+      "title": "Kimi-K3 Releases on HuggingFace 7/27",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3"
+    },
+    {
+      "title": "Show HN: Physically accurate black hole you can put in your room",
+      "url": "https://blackhole.plav.in"
+    },
+    {
+      "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
+      "url": "https://beyondloom.com/decker/"
+    }
   ]
 }
