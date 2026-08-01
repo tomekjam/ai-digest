@@ -4606,5 +4606,23 @@
       "title": "The AI Aesthetic",
       "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/"
     }
+  ],
+  "2026-08-01": [
+    {
+      "title": "Elevators",
+      "url": "https://john.fun/elevators"
+    },
+    {
+      "title": "qm \u2013 Multiplayer agent harness for work",
+      "url": "https://github.com/yc-software/qm"
+    },
+    {
+      "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
+      "url": "https://blog.google/security/chrome-stronger-with-every-update/"
+    },
+    {
+      "title": "Tailscale didn't stop the Hugging Face intrusion",
+      "url": "https://tailscale.com/blog/hugging-face-intrusion"
+    }
   ]
 }
