@@ -4624,5 +4624,19 @@
       "title": "Tailscale didn't stop the Hugging Face intrusion",
       "url": "https://tailscale.com/blog/hugging-face-intrusion"
     }
+  ],
+  "2026-08-02": [
+    {
+      "title": "How Google helped destroy adoption of RSS feeds (2023)",
+      "url": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds"
+    },
+    {
+      "title": "Di\u00e1taxis",
+      "url": "https://diataxis.fr/"
+    },
+    {
+      "title": "Seedance 2.5",
+      "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5"
+    }
   ]
 }
