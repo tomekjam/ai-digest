@@ -4638,5 +4638,15 @@
       "title": "Seedance 2.5",
       "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5"
     }
+  ],
+  "2026-08-03": [
+    {
+      "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
+      "url": "https://qwen.ai/blog?id=qwen3.8"
+    },
+    {
+      "title": "Don't be a meat proxy",
+      "url": "https://gruhn.me/blog/2026-08-03/"
+    }
   ]
 }

@@ -7,6 +7,7 @@ layout: default
 
 *AI-curated tech news, updated daily.*
 
+- [Monday, August 03, 2026](2026-08-03)
 - [Sunday, August 02, 2026](2026-08-02)
 - [Saturday, August 01, 2026](2026-08-01)
 - [Friday, July 31, 2026](2026-07-31)
@@ -36,4 +37,3 @@ layout: default
 - [Monday, July 06, 2026](2026-07-06)
 - [Sunday, July 05, 2026](2026-07-05)
 - [Saturday, July 04, 2026](2026-07-04)
-- [Friday, July 03, 2026](2026-07-03)
