@@ -4704,5 +4704,31 @@
       "title": "Pi's Minimalism Is Its Advantage",
       "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/"
     }
+  ],
+  "2026-08-06": [
+    {
+      "title": "Discovery Loop",
+      "url": "https://www.discoveryloop.com/"
+    },
+    {
+      "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+      "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/"
+    },
+    {
+      "title": "Cloudflare OS: an open platform for agents, apps, and work",
+      "url": "https://blog.cloudflare.com/cloudflare-os/"
+    },
+    {
+      "title": "Zed DeltaDB",
+      "url": "https://zed.dev/deltadb"
+    },
+    {
+      "title": "I'm switching my phone from Android to Linux",
+      "url": "https://runarcn.no/android-to-linux/"
+    },
+    {
+      "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+      "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency"
+    }
   ]
 }
