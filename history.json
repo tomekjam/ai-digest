@@ -4788,5 +4788,15 @@
       "title": "_for-sale DNS records",
       "url": "https://specification.website/spec/foundations/for-sale-dns/"
     }
+  ],
+  "2026-08-10": [
+    {
+      "title": "How I use LLMs to learn complex topics",
+      "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/"
+    },
+    {
+      "title": "Windows 11's built-in Weather app wastes more than 1 GB of RAM",
+      "url": "https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html"
+    }
   ]
 }
