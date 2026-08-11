@@ -4798,5 +4798,31 @@
       "title": "Windows 11's built-in Weather app wastes more than 1 GB of RAM",
       "url": "https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html"
     }
+  ],
+  "2026-08-11": [
+    {
+      "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
+      "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model"
+    },
+    {
+      "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+      "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878"
+    },
+    {
+      "title": "The UK's war on anonymity has come to America",
+      "url": "https://www.effort.news/uk-lobby"
+    },
+    {
+      "title": "Sonic Pi v5",
+      "url": "https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392"
+    },
+    {
+      "title": "Mars Bar from 1991 found \u2013 and it's 20g bigger than today's",
+      "url": "https://www.bbc.com/news/articles/c1j1kjy7gewo"
+    },
+    {
+      "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+      "url": "https://cactuscompute.com/needle"
+    }
   ]
 }
