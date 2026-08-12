@@ -4824,5 +4824,35 @@
       "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
       "url": "https://cactuscompute.com/needle"
     }
+  ],
+  "2026-08-12": [
+    {
+      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+      "url": "https://stolen-thoughts.com/"
+    },
+    {
+      "title": "England set to be one of the first countries to eliminate hepatitis C",
+      "url": "https://www.bbc.com/news/articles/c75gk620r22o"
+    },
+    {
+      "title": "Compression is prediction",
+      "url": "https://ngrok.com/blog/compression-is-prediction"
+    },
+    {
+      "title": "OpenAI\u2019s head of ethics leaves less than a year after joining",
+      "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0"
+    },
+    {
+      "title": "Mojo 1.0",
+      "url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here"
+    },
+    {
+      "title": "Go is an ideal language for AI-assisted software engineering",
+      "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/"
+    },
+    {
+      "title": "London Underground begins scanning passengers' faces",
+      "url": "https://www.btp.police.uk/news/btp/news/england/btp-expands-live-facial-recognition-lfr-trial-into-london-underground-stations/"
+    }
   ]
 }
