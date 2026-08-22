@@ -5112,5 +5112,35 @@
       "title": "Git at any scale",
       "url": "https://cursor.com/blog/git-at-any-scale"
     }
+  ],
+  "2026-08-22": [
+    {
+      "title": "Kobo can run apps now",
+      "url": "https://bandarlabs.github.io/Cobalt/"
+    },
+    {
+      "title": "Felony Bench",
+      "url": "https://www.felonybench.com/"
+    },
+    {
+      "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
+      "url": "https://lina.sh/blog/hijacking-e164-arpa"
+    },
+    {
+      "title": "Felony charges for citizen deleting phone data at US Border",
+      "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html"
+    },
+    {
+      "title": "Kagi added a setting for removing paywalled links from search results",
+      "url": "https://kagi.com/changelog#11296"
+    },
+    {
+      "title": "I'm becoming AI-blind",
+      "url": "https://cymerys.com/w/im-becoming-ai-blind"
+    },
+    {
+      "title": "There's no reason for software to be slow anymore",
+      "url": "https://danluu.com/perf-opt/"
+    }
   ]
 }
