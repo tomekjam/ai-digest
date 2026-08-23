@@ -5142,5 +5142,23 @@
       "title": "There's no reason for software to be slow anymore",
       "url": "https://danluu.com/perf-opt/"
     }
+  ],
+  "2026-08-23": [
+    {
+      "title": "Stop Making TUIs",
+      "url": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/"
+    },
+    {
+      "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+      "url": "https://quantumi.sh/public/labs.html"
+    },
+    {
+      "title": "Scrap (2006)",
+      "url": "https://twitter.com/moxie/status/2091218652133732491"
+    },
+    {
+      "title": "Hister \u2013 A private, full content search index that you control",
+      "url": "https://hister.org/"
+    }
   ]
 }
