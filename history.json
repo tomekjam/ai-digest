@@ -5272,5 +5272,31 @@
       "title": "Trade (and Tariffs)",
       "url": "https://xkcd.com/3290/"
     }
+  ],
+  "2026-08-28": [
+    {
+      "title": "Get your Windows license refund",
+      "url": "https://en.refund4freedom.org/"
+    },
+    {
+      "title": "\u201cIt works better in the app\u201d",
+      "url": "https://shkspr.mobi/blog/2026/08/it-works-better-in-the-app/"
+    },
+    {
+      "title": "Judge rules Trump administration\u2019s blacklisting of Anthropic was illegal",
+      "url": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html"
+    },
+    {
+      "title": "GLM-5.3 is now open-weight",
+      "url": "https://huggingface.co/zai-org/GLM-5.3"
+    },
+    {
+      "title": "Luanti removed from Google Play due to baseless AI copyright notice",
+      "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/"
+    },
+    {
+      "title": "U.S. sanctions against the A/I Collective",
+      "url": "https://www.inventati.org/"
+    }
   ]
 }
