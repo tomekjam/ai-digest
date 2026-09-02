@@ -5402,5 +5402,23 @@
       "title": "I think the military commissary's freezers were hacked",
       "url": "https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary"
     }
+  ],
+  "2026-09-02": [
+    {
+      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1"
+    },
+    {
+      "title": "Introducing Ad Blocker for Firefox on iOS",
+      "url": "https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/"
+    },
+    {
+      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+      "url": "https://danluu.com/zitron/"
+    },
+    {
+      "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
+      "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/"
+    }
   ]
 }
