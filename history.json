@@ -5548,5 +5548,27 @@
       "title": "The \"$60 Gaming PC\" \u2013 AMD BC-250 (2025)",
       "url": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/"
     }
+  ],
+  "2026-09-07": [
+    {
+      "title": "Keep Our Servers Running",
+      "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/"
+    },
+    {
+      "title": "Nitter and XCancel resume service after legal advice",
+      "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3"
+    },
+    {
+      "title": "LG smart TVs caught logging audio with screen off and snooping on local devices",
+      "url": "https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html"
+    },
+    {
+      "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
+      "url": "https://grapheneos.social/@GrapheneOS/117225539756835649"
+    },
+    {
+      "title": "It took a year to ship WebAssembly in Anubis",
+      "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/"
+    }
   ]
 }
