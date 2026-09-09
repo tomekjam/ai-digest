@@ -5592,5 +5592,43 @@
       "title": "Watch Los Angeles get built, one building at a time (1880\u20132026)",
       "url": "https://lax-skyline.parcelscope.net/"
     }
+  ],
+  "2026-09-09": [
+    {
+      "title": "Navier-Stokes \u2013 Tristan Buckmaster [pdf]",
+      "url": "https://cims.nyu.edu/~tristanb/statement.pdf"
+    },
+    {
+      "title": "Muse \u2013 Meta\u2019s personal AI agent",
+      "url": "https://ai.meta.com/muse/"
+    },
+    {
+      "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/"
+    },
+    {
+      "title": "On the Navier\u2013Stokes Millennium Prize Problem",
+      "url": "https://openai.com/index/navier-stokes-solution/"
+    },
+    {
+      "title": "We built our house for LAN parties (2024)",
+      "url": "https://lanparty.house/"
+    },
+    {
+      "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
+      "url": "https://github.com/ayghri/i-have-adhd"
+    },
+    {
+      "title": "DaVinci Resolve 21.1",
+      "url": "https://www.blackmagicdesign.com/media/release/20260908-03"
+    },
+    {
+      "title": "Tao: Open math problems being non-renewably mined by AI",
+      "url": "https://mathstodon.xyz/@tao/117237320796901560"
+    },
+    {
+      "title": "How to build a printer",
+      "url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/"
+    }
   ]
 }
