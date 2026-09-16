@@ -5790,5 +5790,43 @@
       "title": "Distributed Systems Classics (2017)",
       "url": "https://nvartolomei.com/dist-sys-classics/"
     }
+  ],
+  "2026-09-16": [
+    {
+      "title": "Introducing System One Models and Jev",
+      "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev"
+    },
+    {
+      "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+      "url": "https://github.com/arnegiacomo/fugleramme"
+    },
+    {
+      "title": "An update on Wayback Machine access",
+      "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/"
+    },
+    {
+      "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/"
+    },
+    {
+      "title": "Let's make quality the norm again",
+      "url": "https://www.forbrukerradet.no/short-life/"
+    },
+    {
+      "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
+      "url": "https://codyho.dev/blog/gpu-driver/"
+    },
+    {
+      "title": "Show HN: Capsule \u2013 Single-file web apps that save their data into SQLite",
+      "url": "https://withcapsule.app/"
+    },
+    {
+      "title": "EU chief opens door for Canada to become 'associate member'",
+      "url": "https://www.bbc.com/news/articles/cjwyzrr9d3dko"
+    },
+    {
+      "title": "Apple Reference Image: A New Approach for Verified Photography",
+      "url": "https://security.apple.com/blog/apple-reference-image/"
+    }
   ]
 }
