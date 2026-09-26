@@ -6094,5 +6094,19 @@
       "title": "Show HN: Whiteboard (YC W26) \u2013 An open-source IDE for thoughtful software design",
       "url": "https://github.com/devdotfast/whiteboard"
     }
+  ],
+  "2026-09-26": [
+    {
+      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+      "url": "https://swarmtraces.org/"
+    },
+    {
+      "title": "Ollaya \u2013 Ollama for open-source, Jev-style decision models",
+      "url": "https://ollaya.dev/"
+    },
+    {
+      "title": "Plan mode is dead",
+      "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html"
+    }
   ]
 }
