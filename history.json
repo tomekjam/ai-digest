@@ -6308,5 +6308,23 @@
       "title": "Hole Punch: Sling your spaceship around gravitational fields",
       "url": "https://notoriousbfg.com/hole-punch/"
     }
+  ],
+  "2026-10-05": [
+    {
+      "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+      "url": "https://github.com/Niko1221/Strata"
+    },
+    {
+      "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
+      "url": "https://github.com/omlahore/RemoveMacAI"
+    },
+    {
+      "title": "A browser-native classic Visual Basic VB6 IDE",
+      "url": "https://wieslawsoltes.github.io/VB6/"
+    },
+    {
+      "title": "Denmark Data Breach Exposes 8.8M People's Personal Data",
+      "url": "https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger"
+    }
   ]
 }
