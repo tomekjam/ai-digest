@@ -6366,5 +6366,39 @@
       "title": "OpenTPU \u2013 An open-source AI accelerator, developed by AI",
       "url": "https://github.com/FeSens/openTPU"
     }
+  ],
+  "2026-10-08": [
+    {
+      "title": "Claude Haiku 5.5",
+      "url": "https://www.anthropic.com/claude-haiku-5-5"
+    },
+    {
+      "title": "Margaret Hamilton has died",
+      "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007"
+    },
+    {
+      "title": "GPT\u20116 and Intelligent UI for everyone",
+      "url": "https://openai.com/index/gpt-6-for-everyone/"
+    },
+    {
+      "title": "Show HN: Bigwords.page \u2013 Turn any screen into a sign. The URL is the app",
+      "url": "https://bigwords.page/"
+    },
+    {
+      "title": "Sharing AI progress in mathematics",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/"
+    },
+    {
+      "title": "\u201cMath 2.0\u201d will need to value mathematical progress more holistically",
+      "url": "https://mathstodon.xyz/@tao/117395269325940185"
+    },
+    {
+      "title": "Animated ASCII Art for Web Pages",
+      "url": "https://ascii.rest/"
+    },
+    {
+      "title": "The Mathocalypse",
+      "url": "https://scottaaronson.blog/?p=10169"
+    }
   ]
 }
