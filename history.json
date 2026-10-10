@@ -6434,5 +6434,35 @@
       "title": "Beauty in DVD Menus",
       "url": "https://vale.rocks/posts/dvd-menus"
     }
+  ],
+  "2026-10-10": [
+    {
+      "title": "Triple-A Minesweeper",
+      "url": "https://minesweeper.mikelacher.com/"
+    },
+    {
+      "title": "Cloudflare acquires Deno",
+      "url": "https://deno.com/blog/cloudflare"
+    },
+    {
+      "title": "REA Reverse \u2013 Engineer Anything",
+      "url": "https://rea.tools/"
+    },
+    {
+      "title": "Sorry, I'm in a meeting",
+      "url": "https://iminafleeting.com/"
+    },
+    {
+      "title": "Our $445M Series D",
+      "url": "https://oxide.computer/blog/our-445m-series-d"
+    },
+    {
+      "title": "Typesafe AI raises $870M at $7.5B",
+      "url": "https://typesafe.ai/blog/series-ai"
+    },
+    {
+      "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
+      "url": "https://carrierexplode.com/"
+    }
   ]
 }
