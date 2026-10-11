@@ -6464,5 +6464,35 @@
       "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
       "url": "https://carrierexplode.com/"
     }
+  ],
+  "2026-10-11": [
+    {
+      "title": "2D Vehicles",
+      "url": "https://patkerr.co.uk/2d-vehicles/"
+    },
+    {
+      "title": "The Lightbulb Computer",
+      "url": "https://lightbulbcomputer.com/"
+    },
+    {
+      "title": "A city-building game in which the city would prefer you didn't",
+      "url": "https://housing.over.pizza/"
+    },
+    {
+      "title": "Build your own decision model",
+      "url": "https://nishtahir.com/build-your-own-decision-model/"
+    },
+    {
+      "title": "Sudden drop in Cloudflare bot traffic after strike on Yandex datacenter",
+      "url": "https://radar.cloudflare.com/bots/as13238?dateRange=7d"
+    },
+    {
+      "title": "3rd Yandex Cloud Data Center Was Hit",
+      "url": "https://status.yandex.cloud/en/incidents/2136"
+    },
+    {
+      "title": "Talorys \u2013 A self-hosted personal AI agent on Cloudflare's free tier",
+      "url": "https://github.com/rociiu/talorys"
+    }
   ]
 }
