@@ -6592,5 +6592,39 @@
       "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
       "url": "https://github.com/android/ndk/issues/2260"
     }
+  ],
+  "2026-10-15": [
+    {
+      "title": "OpenCode 2.0",
+      "url": "https://anoma.ly/notes/opencode-2-0/"
+    },
+    {
+      "title": "Do dentists know what they're doing?",
+      "url": "https://mapwriting.substack.com/p/dentists"
+    },
+    {
+      "title": "Things to know when you get cancer",
+      "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/"
+    },
+    {
+      "title": "How Amazon pushes up prices all across the Internet",
+      "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/"
+    },
+    {
+      "title": "Containment and monitoring failures are to blame for AI hacking reports:\u00a0experts",
+      "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html"
+    },
+    {
+      "title": "Tiny Little Office",
+      "url": "https://tinylittleoffice.com/"
+    },
+    {
+      "title": "Americans' social activity has steeply declined in the past 30 years",
+      "url": "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years"
+    },
+    {
+      "title": "We\u2019re releasing Jev 1.14.0 along with experimental features for dreamers",
+      "url": "https://typesafe.ai/blog/jev-1-14"
+    }
   ]
 }
