@@ -6668,5 +6668,31 @@
       "title": "Krea 3 \u2013 An image model built for editing at scale",
       "url": "https://www.krea.ai/krea-3"
     }
+  ],
+  "2026-10-17": [
+    {
+      "title": "Tesla Roadster",
+      "url": "https://www.tesla.com/roadster"
+    },
+    {
+      "title": "Claude reveals ECDSA curve origins",
+      "url": "https://www.anthropic.com/research/ecdsa-curve-origins"
+    },
+    {
+      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+      "url": "https://www.mercor.com/research/labor-index/benchmark-map/"
+    },
+    {
+      "title": "How the Claude Code team does code review",
+      "url": "https://claude.dev/blog/solving-code-review-at-anthropic/"
+    },
+    {
+      "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+      "url": "https://machinelearning.apple.com/research/mlx-distributed-inference"
+    },
+    {
+      "title": "You could have invented transformers from memory",
+      "url": "https://alexwang.ai/posts/associative-memory/"
+    }
   ]
 }
