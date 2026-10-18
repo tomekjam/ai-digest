@@ -6694,5 +6694,43 @@
       "title": "You could have invented transformers from memory",
       "url": "https://alexwang.ai/posts/associative-memory/"
     }
+  ],
+  "2026-10-18": [
+    {
+      "title": "DeepSeek-v4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
+    },
+    {
+      "title": "You could have invented transformers from memory",
+      "url": "https://alexwang.ai/posts/associative-memory/"
+    },
+    {
+      "title": "Bleached corals thrive within days when touching healthy neighbour",
+      "url": "https://www.nature.com/articles/d41586-026-03266-x"
+    },
+    {
+      "title": "Pele \u2013 Mermaid diagrams as themeable SVG",
+      "url": "https://pele.run/"
+    },
+    {
+      "title": "Furifont, a Japanese font that shows furigana",
+      "url": "https://furifont.antfu.me/"
+    },
+    {
+      "title": "Gold is now the top U.S. export",
+      "url": "https://www.numismaticnews.net/gold-now-top-u-s-export"
+    },
+    {
+      "title": "NY announces game ownership bill requiring ownership rather than licensing",
+      "url": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends"
+    },
+    {
+      "title": "Making chicken transparent using Dorito dust",
+      "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using"
+    },
+    {
+      "title": "Show HN: Llmspeed \u2013 feel how fast a local LLM runs before you buy the hardware",
+      "url": "https://llmspeed.dev/"
+    }
   ]
 }
