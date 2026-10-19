@@ -6732,5 +6732,31 @@
       "title": "Show HN: Llmspeed \u2013 feel how fast a local LLM runs before you buy the hardware",
       "url": "https://llmspeed.dev/"
     }
+  ],
+  "2026-10-19": [
+    {
+      "title": "Someone behind the software",
+      "url": "https://karrisaarinen.com/posts/someone-behind-the-software/"
+    },
+    {
+      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+      "url": "https://arxiv.org/abs/2610.18861"
+    },
+    {
+      "title": "There's never been a better time to go into math (by: 3blue1brown) [video]",
+      "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc"
+    },
+    {
+      "title": "Documents: Police officer gave her Flock login to her ICE agent husband",
+      "url": "https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816"
+    },
+    {
+      "title": "RepRapMicron",
+      "url": "https://github.com/VikOlliver/RepRapMicron/wiki"
+    },
+    {
+      "title": "Linux 7.3 Released",
+      "url": "https://lwn.net/Articles/1101143/"
+    }
   ]
 }
