@@ -6926,5 +6926,35 @@
       "title": "LLMs are making formal software verification feasible at a much larger scale",
       "url": "https://www.anthropic.com/research/formal-verification"
     }
+  ],
+  "2026-10-24": [
+    {
+      "title": "Today, we hacked what we'd set out to hack: the iPhone",
+      "url": "https://blog.calif.io/p/iphone"
+    },
+    {
+      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+      "url": "https://www.kimi.ai/blog/kimi-k3-1-pro"
+    },
+    {
+      "title": "Apple Music 404 Not Found",
+      "url": "https://music.apple.com/this-url-doesnt-exist"
+    },
+    {
+      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+      "url": "https://edjefferson.com/localwiki/"
+    },
+    {
+      "title": "Canadians are running out of time to oppose Bill C-22",
+      "url": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill"
+    },
+    {
+      "title": "Dessa: Conversation Model trained only on speech",
+      "url": "https://block.xyz/dessa"
+    },
+    {
+      "title": "The Real Kevin Bacon",
+      "url": "https://pudding.cool/2026/10/kevin-bacon/"
+    }
   ]
 }
