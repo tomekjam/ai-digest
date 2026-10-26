@@ -6990,5 +6990,31 @@
       "title": "FreeDNS",
       "url": "https://freedns.afraid.org/"
     }
+  ],
+  "2026-10-26": [
+    {
+      "title": "Dolly Parton's Imagination Library",
+      "url": "https://imaginationlibrary.com/"
+    },
+    {
+      "title": "We should be more ambitious with the software we build",
+      "url": "https://danluu.com/ambitious/"
+    },
+    {
+      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "url": "https://lynchlab.net/llm-skin-cancer"
+    },
+    {
+      "title": "IBM CEO says open weight models are now good and cheap on-prem",
+      "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640"
+    },
+    {
+      "title": "Overgrown, when plants invade your abandoned tabs",
+      "url": "https://charliegerard.dev/blog/overgrown-extension/"
+    },
+    {
+      "title": "Show HN: TitleArt \u2013 Make text like it's 1997",
+      "url": "https://titleart.dvy.io/"
+    }
   ]
 }
