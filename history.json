@@ -7122,5 +7122,31 @@
       "title": "A Health Update",
       "url": "https://furbo.org/2026/10/28/a-health-update/"
     }
+  ],
+  "2026-10-30": [
+    {
+      "title": "We're releasing the weights of Mistral Large 4",
+      "url": "https://mistral.ai/news/mistral-large-4-oss/"
+    },
+    {
+      "title": "Binance-hacker-1029 \u2013 $5.6B stolen from Binance",
+      "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8"
+    },
+    {
+      "title": "LLM Voice",
+      "url": "https://martinfowler.com/bliki/LLM-Voice.html"
+    },
+    {
+      "title": "Backdoors in official Claude Code extensions",
+      "url": "https://cyberplace.social/@GossiTheDog/117528831681803563"
+    },
+    {
+      "title": "H.264 Is Magic (2016)",
+      "url": "https://sidbala.com/h-264-is-magic/"
+    },
+    {
+      "title": "We ran AI agent swarms in Minecraft and Mindustry",
+      "url": "https://labs.ycombinator.com/projects/games/index.html"
+    }
   ]
 }
