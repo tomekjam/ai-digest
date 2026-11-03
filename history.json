@@ -7226,5 +7226,39 @@
       "title": "The AI cost of JavaScript frameworks",
       "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/"
     }
+  ],
+  "2026-11-03": [
+    {
+      "title": "Astra can read and write weights to improve Qwen",
+      "url": "https://rikiyat.github.io/blog/weight-space-programming/"
+    },
+    {
+      "title": "Show HN: Subvocal \u2013 Talk to your computer without making noise",
+      "url": "https://news.ycombinator.com/item?id=50340088"
+    },
+    {
+      "title": "If you love a website, back it up",
+      "url": "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/"
+    },
+    {
+      "title": "US boy names that became girl names and vice versa",
+      "url": "https://namedaisy.com/blog/boy-names-that-became-girl-names"
+    },
+    {
+      "title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
+      "url": "https://hackertimes.ca/"
+    },
+    {
+      "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+      "url": "https://honnibal.dev/blog/astra-read-write-misleading"
+    },
+    {
+      "title": "Show HN: Warsaw in voxels \u2013 An interactive 3D map of the city centre",
+      "url": "https://p.migdal.pl/warsaw-vibe-voxel/"
+    },
+    {
+      "title": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
+      "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio"
+    }
   ]
 }
