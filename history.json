@@ -7982,5 +7982,39 @@
       "title": "Ladybird is now in alpha",
       "url": "https://ladybird.org/posts/alpha/"
     }
+  ],
+  "2026-11-25": [
+    {
+      "title": "Button Sounds \u2013 collection of professionally-recorded button clicks and presses",
+      "url": "https://buttons.joshwcomeau.com/"
+    },
+    {
+      "title": "Matrix Multiplication is \u0398(n^2.25) [pdf]",
+      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf"
+    },
+    {
+      "title": "Ternary Bonsai 2.5 27B",
+      "url": "https://prismml.com/news/bonsai-2-5-27b"
+    },
+    {
+      "title": "The Spray Bottle",
+      "url": "https://mechanical-pencil.com/products/spray-bottle"
+    },
+    {
+      "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+      "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being"
+    },
+    {
+      "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
+      "url": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit"
+    },
+    {
+      "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+      "url": "https://greydanus.github.io/2026/11/12/pengpt/"
+    },
+    {
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/"
+    }
   ]
 }
